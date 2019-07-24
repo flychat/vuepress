@@ -55,8 +55,6 @@ folders.forEach(function(folder){
 		    var noSidebar = '---\nsidebar: false\n---\n\n'
 		    var contents = noSidebar + '# '+ lastFolderName + '\n\n' + lists
 		    
-		   
-
 		    var index = directoryPath+'/README.md'
 		    console.log(index + ' indexed!');
 		    fs.writeFile(index, contents, (err) => {
