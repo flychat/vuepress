@@ -5,7 +5,7 @@ ARG password
 ARG repo
 ARG domain
 
-RUN apk add git
+RUN apk add git tzdata
 RUN git config --global user.email "vuepress@docker.build" \
 	&& git config --global user.name "Vuepress Autobuild in docker"
 
@@ -22,7 +22,6 @@ RUN npm install
 COPY . .
 
 # https://serverfault.com/a/683651
-RUN apk add --no-cache tzdata
 ENV TZ=Asia/Shanghai
 RUN ln -snf /usr/share/zoneinfo/$TZ /etc/localtime && echo $TZ > /etc/timezone
 
