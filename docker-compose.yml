@@ -11,8 +11,6 @@ services:
         - repo=${REPO}
         - domain=${DOMAIN}
     volumes:
-      - "/etc/timezone:/etc/timezone:ro"
-      - "/etc/localtime:/etc/localtime:ro"
       - ./docs:/app/docs
     restart: unless-stopped
     ports:

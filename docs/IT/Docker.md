@@ -27,7 +27,7 @@
 ## 设置时区和host相同 https://serverfault.com/a/683651
 
 ### docker-compose.yml方式
-
+> ubuntu 为host
 ```
 volumes:
   - "/etc/timezone:/etc/timezone:ro"
