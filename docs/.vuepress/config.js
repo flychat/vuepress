@@ -10,6 +10,6 @@ module.exports = {
       { text: '图床', link: 'https://sm.ms' }
     ]
   },
-  title: 'blog.FlyChat.ml',
+  title: 'FlyChat.ml',
   description: '又是一片云'
 }
