@@ -5,5 +5,9 @@
   },
   "devDependencies": {
     "vuepress": "^1.0.2"
+  },
+  "dependencies": {
+    "vue-google-adsense": "^1.6.0",
+    "vue-script2": "^2.1.0"
   }
 }
