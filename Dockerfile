@@ -16,7 +16,7 @@ WORKDIR /app
 COPY package*.json ./
 
 # install project dependencies
-RUN yarn install
+RUN npm install
 
 # copy project files and folders to the current working directory (i.e. 'app' folder)
 COPY . .
@@ -25,7 +25,7 @@ COPY . .
 ENV TZ=Asia/Shanghai
 RUN ln -snf /usr/share/zoneinfo/$TZ /etc/localtime && echo $TZ > /etc/timezone
 
-RUN rm -rf /app/docs/.vuepress/dist && yarn dev \
+RUN rm -rf /app/docs/.vuepress/dist \
 	&& npm run build \
 	&& cd /app/docs/.vuepress/dist \
 	&& echo $domain > CNAME \
