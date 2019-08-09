@@ -67,19 +67,45 @@ Click your profile picture for these options:
 
 ![zoom05.gif](https://i.loli.net/2019/08/06/kIo2i1SKHJmcA3Q.gif)
 
+-  Watch a [video](https://www.youtube.com/embed/4w_pRMBEALE?rel=0&autoplay=1&cc_load_policy=1) about this feature.
+
 ### New meeting
 
 > **New Meeting**: Start a meeting then wait for your student to join.  Click the downwards arrow to make sure you enabled video & choosed PMI.
 
   ![zoom06-end.gif](https://i.loli.net/2019/08/06/FxZClduzMBLn547.gif)
 
-### Start/Stop/Pause Record/*
-	Click [Record] button. Then you'll see Pause/Stop recording.
+
+
+### Start/Pause Recording *
+
+	Click [Record] button.
 
 ![zoom07.gif](https://i.loli.net/2019/08/06/mGXoCUlNfMgqv28.gif)
 
+- Click the option to **Record**.
+  ![img](https://assets.zoom.us/images/en-us/desktop/generic/record-button.png) ===> ![img](https://assets.zoom.us/images/en-us/desktop/generic/resume-recording.png)
+
+- If there is a menu, select **Record on this Computer**.
+
+- You will see the following recording indicator in the top-left corner while recording is active.![img](https://assets.zoom.us/images/en-us/desktop/generic/recording-icon-host.png)
+
+- After the meeting has ended, Zoom will convert the recording so you can access the files.![img](https://assets.zoom.us/images/en-us/desktop/windows/recording-converting.png)
+
+- Once the conversion process is complete, the folder containing the recording files will open.
+
+- Note**:** 
+
+  - By default, the audio/video file (MP4) will be named **Zoom_0.mp4**. The audio only file (M4A) is named **audio_only.m4a**.
+
+  - If the conversion process is not successful after the meeting has ended, you can try to convert the files again by navigating to the recording location and double clicking the recording files.
+
+  - Watch a [video](https://www.youtube.com/embed/iG3GiwHXp5s?rel=0&autoplay=1) for All About Recording
+
+    
 
 ### Chat
+
 	Click [Chat] button. 
 
 ### Share & draw/text on your whiteboard 
@@ -87,15 +113,30 @@ Click your profile picture for these options:
 
 ![zoom08-share.gif](https://i.loli.net/2019/08/06/IiJonvbK2W71TGP.gif)
 
+- Watch a [video](https://www.youtube.com/embed/9wsWpnqE6Hw?rel=0&autoplay=1&cc_load_policy=1) about Sharing Your Screen 
+
+### Stop a share
+
+![1565383770628.jpg](https://i.loli.net/2019/08/10/lB6PY2iLKNE4Vbc.jpg)
+
+### Share a book / documents
+
+- Open the book first
+- Click [Share Screen] button, 
+- Choose the application to share with the book.
+- Then you can draw/text like whiteboard.
+
+### Share a video / mp3 
+
+![AwesomeScreenshot-nlipoenfbbikpbjkfpfillcgkoblgpmj-upload.html-2019-08-10_4_46.png](https://i.loli.net/2019/08/10/OhNDSl1wjnfr4K2.png)
+
+- Open the video/audio first, then pause it.
+- Click [Share Screen] button
+- Choose the application to share mp4/mp3
+- Click the checkbox to Share computer sound **
+- unpause your media player.
 
 
-### Share book
-
-	Open the book first, Click [Share Screen] button, then choose the application to share with the book.
-
-
-### Share video
-	Open the video first & pause it. Click [Share Screen] button, then choose the player application 
 
 ### Manage participants
 	How to Manage participants? => Click [Manage Participants] button.
@@ -105,18 +146,35 @@ Click your profile picture for these options:
 
 ### Choose a Virtual Background
 
+> The virtual background feature allows you to display an image as your background during a Zoom Meeting. This feature works best with a green screen and uniform lighting, to allow Zoom to detect the difference between you and your background.
 
+![AwesomeScreenshot-nlipoenfbbikpbjkfpfillcgkoblgpmj-upload.html-2019-08-10_3_51.png](https://i.loli.net/2019/08/10/LWzrKJvwaetmFyb.png)
+
+- To achieve the best virtual background effect, Zoom recommends using a solid color background, preferably green. Recommended green screens 
+-  Watch a [video](https://www.youtube.com/watch?v=wv_AcZkrukE) about this feature.
 
 ### Mute / **Unmute**
 
-
-
-###Start / Stop video
-
-
+> click the Mute / Unmute button
 
 ### End  a class
 
 	How to End the meeting? => Click red [End Meeting] button. 
 
 
+
+## More
+
+> If you want explore more, here are some articles. it's not  necessary.
+
+- [AUDIO](https://support.zoom.us/hc/en-us/sections/200319096-Audio)
+
+- [VIDEO](https://support.zoom.us/hc/en-us/sections/200521865-Video)
+
+- [SCREEN SHARING](https://support.zoom.us/hc/en-us/sections/201740106-Screen-Sharing)
+
+- [RECORDING](https://support.zoom.us/hc/en-us/sections/200208179-Recording)
+
+- [Chat](https://support.zoom.us/hc/en-us/sections/200258579-Chats)
+
+  
