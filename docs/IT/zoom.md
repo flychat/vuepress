@@ -13,7 +13,7 @@ or by blow 3 steps: Download->Install->Login
 
 > Download the Zoom Client for Meetings
 
-- Direct Downlod link for windows :  https://zoom.us/client/latest/ZoomInstaller.exe
+- Direct Download link for windows :  https://zoom.us/client/latest/ZoomInstaller.exe
 
   - Or From Download Page https://zoom.us/download#client_4meetingby click "Download" button of "Zoom Client for Meetings".
 
@@ -60,18 +60,21 @@ Click your profile picture for these options:
 ![zoom04.gif](https://i.loli.net/2019/08/06/s3Pgo2p5ji1Tq6J.gif)
 
 ## Meeting Controls
+
+![1565358753134.jpg](https://i.loli.net/2019/08/09/IiTZjkBYESoqNRe.jpg)
+
 > Once you have started or joined a meeting, you can access the meeting controls located at the bottom of the meeting window (move your mouse in the Zoom window to display meeting controls).
 
 ![zoom05.gif](https://i.loli.net/2019/08/06/kIo2i1SKHJmcA3Q.gif)
 
-### New meeting/begin a class
+### New meeting
 
-> **New Meeting**: Start an instant meeting then wait for student to join.  Click the downwards arrow to make sure you enabled video.
+> **New Meeting**: Start a meeting then wait for your student to join.  Click the downwards arrow to make sure you enabled video & choosed PMI.
 
   ![zoom06-end.gif](https://i.loli.net/2019/08/06/FxZClduzMBLn547.gif)
 
 ### Start/Stop/Pause Record/*
-	Click [Record] button.
+	Click [Record] button. Then you'll see Pause/Stop recording.
 
 ![zoom07.gif](https://i.loli.net/2019/08/06/mGXoCUlNfMgqv28.gif)
 
@@ -98,6 +101,22 @@ Click your profile picture for these options:
 	How to Manage participants? => Click [Manage Participants] button.
 	Student must name like: jack-liuchang can be approved to Participants（your student）
 
+
+
+### Choose a Virtual Background
+
+
+
+### Mute / **Unmute**
+
+
+
+###Start / Stop video
+
+
+
 ### End  a class
+
 	How to End the meeting? => Click red [End Meeting] button. 
+
 
