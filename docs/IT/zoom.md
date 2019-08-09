@@ -10,9 +10,9 @@
 
 > Download the Zoom Client for Meetings
 
-- Direct Download link for windows :  https://zoom.us/client/latest/ZoomInstaller.exe
+- Direct Download link for windows :  [https://zoom.us/client/latest/ZoomInstaller.exe](https://zoom.us/client/latest/ZoomInstaller.exe)
 
-  - Or From Download Page https://zoom.us/download#client_4meetingby click **Download** button of **Zoom Client for Meetings**.
+  - Or From Download Page [https://zoom.us/download#client_4meetingby](https://zoom.us/download#client_4meetingby) click **Download** button of **Zoom Client for Meetings**.
 
 
 ### Install
