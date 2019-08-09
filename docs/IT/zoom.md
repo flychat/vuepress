@@ -1,7 +1,7 @@
 # Tutorials for teachers
 
 - when you see **bold content** means you can find it on your screen.
-- when you see ⚠️ means you need take attention.
+- when you see ⚠️ means you need to take attention.
 - when you see suffix * means it's very important content.
 
 ## Zoom DIL
