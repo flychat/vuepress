@@ -1,13 +1,10 @@
 # Tutorials for teachers
 
-
+- when you see **bold content** means you can find it on your screen.
+- when you see ⚠️ means you need take attention.
+- when you see suffix * means it's very important content.
 
 ## Zoom DIL
-
-Flow this screenshot 
-![zoom01.gif](https://i.loli.net/2019/08/06/qYGMV8EbL7tRnUZ.gif)
-
-or by blow 3 steps: Download->Install->Login
 
 ### Download
 
@@ -15,27 +12,23 @@ or by blow 3 steps: Download->Install->Login
 
 - Direct Download link for windows :  https://zoom.us/client/latest/ZoomInstaller.exe
 
-  - Or From Download Page https://zoom.us/download#client_4meetingby click "Download" button of "Zoom Client for Meetings".
+  - Or From Download Page https://zoom.us/download#client_4meetingby click **Download** button of **Zoom Client for Meetings**.
 
-  
 
 ### Install
 
-> Double Click the ZoomInstaller.exe , Keep settings default is ok.
+Double Click the ZoomInstaller.exe , Keep settings default, or Flow this screenshot 
+![zoom01.gif](https://i.loli.net/2019/08/06/qYGMV8EbL7tRnUZ.gif)
+
 
 ### Login
 
-> No need register yourself. Our Manager will provide you an account with Email & password.
+After launching Zoom, click **Sign In** to log in with email & password which we provided.
+⚠️ Don't register yourself. We will provide an account for you.
 
 ![img](https://assets.zoom.us/images/en-us/desktop/generic/home/join-meeting-or-sign-in-screen.png)
 
-After launching Zoom, click **Sign In** to  log in and start or schedule your own meeting.
-
-![img](https://assets.zoom.us/images/en-us/desktop/generic/home/sign-in-screen.png)
-
-It’s better to click **keep me logged in** .
-
-After signing in, you will see the **Home** tab, where you can click **New Meeting**.
+After signing in, you will see the **Home** tab.
 
 ![img](https://assets.zoom.us/images/en-us/desktop/generic/home/home-screen.png)
 
@@ -43,35 +36,30 @@ After signing in, you will see the **Home** tab, where you can click **New Meeti
 
 ## Settings*
 
-Click your profile picture for these options:
-
-![img](https://assets.zoom.us/images/en-us/desktop/generic/home/status-menu-add-personal-note.png)
-
 ### PMI(Personal Metting ID)
+
+Click the downwards arrow of **New Meeting** to make sure **Start with video** & **Use My Personal Meeting ID (PMI)** checked.
 
 ![zoom02.gif](https://i.loli.net/2019/08/06/Xn1W5O6yLEZSrTc.gif)
 
-	Click the downwards arrow of [New Meeting] to make sure the video enable & use your personal meeting ID (PMI) checked.
+
 
 
 ### Show connected time
-> Click your profile picture, then click [Settings] , in the Genearl tab click "Show my connected time" then "save"
+- Click your profile picture, 
+- Click **Settings**, 
+- Click **General** tab 
+- Click **Show my connected time** 
 
 ![zoom04.gif](https://i.loli.net/2019/08/06/s3Pgo2p5ji1Tq6J.gif)
 
 ## Meeting Controls
 
-![1565358753134.jpg](https://i.loli.net/2019/08/09/IiTZjkBYESoqNRe.jpg)
-
-> Once you have started or joined a meeting, you can access the meeting controls located at the bottom of the meeting window (move your mouse in the Zoom window to display meeting controls).
-
-![zoom05.gif](https://i.loli.net/2019/08/06/kIo2i1SKHJmcA3Q.gif)
-
--  Watch a [video](https://www.youtube.com/embed/4w_pRMBEALE?rel=0&autoplay=1&cc_load_policy=1) about this feature.
+Once you clicked **New Meeting**, you can access the meeting controls located at the bottom of the meeting window (move your mouse in the Zoom window to display meeting controls or click **Return to Meeting** if you see the button).![AwesomeScreenshot-nlipoenfbbikpbjkfpfillcgkoblgpmj-upload.html-2019-08-10_6_07.png](https://i.loli.net/2019/08/10/YIhQdlonbetwuZ3.png)
 
 ### New meeting
 
-> **New Meeting**: Start a meeting then wait for your student to join.  Click the downwards arrow to make sure you enabled video & choosed PMI.
+Start a meeting then wait for your student to join.  Click the downwards arrow to make sure you enabled video & choosed PMI.
 
   ![zoom06-end.gif](https://i.loli.net/2019/08/06/FxZClduzMBLn547.gif)
 
@@ -79,7 +67,7 @@ Click your profile picture for these options:
 
 ### Start/Pause Recording *
 
-	Click [Record] button.
+Click **Record** button.
 
 ![zoom07.gif](https://i.loli.net/2019/08/06/mGXoCUlNfMgqv28.gif)
 
@@ -94,15 +82,14 @@ Click your profile picture for these options:
 
 - Once the conversion process is complete, the folder containing the recording files will open.
 
-- Note**:** 
+- Note :
 
   - By default, the audio/video file (MP4) will be named **Zoom_0.mp4**. The audio only file (M4A) is named **audio_only.m4a**.
 
   - If the conversion process is not successful after the meeting has ended, you can try to convert the files again by navigating to the recording location and double clicking the recording files.
 
-  - Watch a [video](https://www.youtube.com/embed/iG3GiwHXp5s?rel=0&autoplay=1) for All About Recording
-
     
+
 
 ### Chat
 
@@ -112,8 +99,6 @@ Click your profile picture for these options:
 	Click [Share Screen] button, then choose [whiteboard].
 
 ![zoom08-share.gif](https://i.loli.net/2019/08/06/IiJonvbK2W71TGP.gif)
-
-- Watch a [video](https://www.youtube.com/embed/9wsWpnqE6Hw?rel=0&autoplay=1&cc_load_policy=1) about Sharing Your Screen 
 
 ### Draw / text on Share
 
@@ -163,28 +148,32 @@ Click your profile picture for these options:
 
 ### Mute / **Unmute**
 
-> click the Mute / Unmute button
+> Click the Mute / Unmute button
 
-### End  a class
+### End Meeting
 
-	How to End the meeting? => Click red [End Meeting] button. 
+![AwesomeScreenshot-nlipoenfbbikpbjkfpfillcgkoblgpmj-upload.html-2019-08-10_5_50.png](https://i.loli.net/2019/08/10/aQin7hfFMuAqGs2.png)
 
-
+- Click red **End Meeting**  button on the bottom controls. 
+- ⚠️ Choose **End Meeting for ALL**   instead of close the app or leave meeting.
 
 ## More
 
-> If you want explore more, here are some articles. it's not  necessary.
+> If you want to explore more, here are some articles. it's not necessary.
 
-- [AUDIO](https://support.zoom.us/hc/en-us/sections/200319096-Audio)
+- Viesos
 
-- [VIDEO](https://support.zoom.us/hc/en-us/sections/200521865-Video)
+  - Watch a [video](https://www.youtube.com/embed/9wsWpnqE6Hw?rel=0&autoplay=1&cc_load_policy=1) about Sharing Your Screen 
+  - Watch a [video](https://www.youtube.com/embed/iG3GiwHXp5s?rel=0&autoplay=1) for All About Recording
+  - Watch a [video](https://www.youtube.com/watch?v=wv_AcZkrukE) about Virtual Background feature.
+  - Watch a [video](https://www.youtube.com/embed/4w_pRMBEALE?rel=0&autoplay=1&cc_load_policy=1) about controls feature.
 
-- [SCREEN SHARING](https://support.zoom.us/hc/en-us/sections/201740106-Screen-Sharing)
+- Articles
 
-- [RECORDING](https://support.zoom.us/hc/en-us/sections/200208179-Recording)
-
-- [Chat](https://support.zoom.us/hc/en-us/sections/200258579-Chats)
-
-- Watch a [video](https://www.youtube.com/watch?v=wv_AcZkrukE) about Virtual Background feature.
+  - [AUDIO](https://support.zoom.us/hc/en-us/sections/200319096-Audio)
+  - [VIDEO](https://support.zoom.us/hc/en-us/sections/200521865-Video)
+  - [SCREEN SHARING](https://support.zoom.us/hc/en-us/sections/201740106-Screen-Sharing)
+  - [RECORDING](https://support.zoom.us/hc/en-us/sections/200208179-Recording)
+  - [Chat](https://support.zoom.us/hc/en-us/sections/200258579-Chats)
 
   
