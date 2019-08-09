@@ -108,23 +108,30 @@ Click your profile picture for these options:
 
 	Click [Chat] button. 
 
-### Share & draw/text on your whiteboard 
+### Share whiteboard 
 	Click [Share Screen] button, then choose [whiteboard].
 
 ![zoom08-share.gif](https://i.loli.net/2019/08/06/IiJonvbK2W71TGP.gif)
 
 - Watch a [video](https://www.youtube.com/embed/9wsWpnqE6Hw?rel=0&autoplay=1&cc_load_policy=1) about Sharing Your Screen 
 
+### Draw / text on Share
+
+> @see Share whiteboard
+
 ### Stop a share
+
+> Click the red button "Stop Share".
 
 ![1565383770628.jpg](https://i.loli.net/2019/08/10/lB6PY2iLKNE4Vbc.jpg)
 
-### Share a book / documents
+### Share a pdf
 
-- Open the book first
+- Open the pdf first,
 - Click [Share Screen] button, 
-- Choose the application to share with the book.
-- Then you can draw/text like whiteboard.
+- Choose the application that opened the pdf,
+- Now the student will see your pdf.
+- Then you can draw / text like whiteboard.
 
 ### Share a video / mp3 
 
@@ -151,7 +158,8 @@ Click your profile picture for these options:
 ![AwesomeScreenshot-nlipoenfbbikpbjkfpfillcgkoblgpmj-upload.html-2019-08-10_3_51.png](https://i.loli.net/2019/08/10/LWzrKJvwaetmFyb.png)
 
 - To achieve the best virtual background effect, Zoom recommends using a solid color background, preferably green. Recommended green screens 
--  Watch a [video](https://www.youtube.com/watch?v=wv_AcZkrukE) about this feature.
+- ⚠️If your background isn't tidy, you can use this feature.⚠️
+- ⚠️If your computer give bad effect, don't use this feature.⚠️
 
 ### Mute / **Unmute**
 
@@ -176,5 +184,7 @@ Click your profile picture for these options:
 - [RECORDING](https://support.zoom.us/hc/en-us/sections/200208179-Recording)
 
 - [Chat](https://support.zoom.us/hc/en-us/sections/200258579-Chats)
+
+- Watch a [video](https://www.youtube.com/watch?v=wv_AcZkrukE) about Virtual Background feature.
 
   
