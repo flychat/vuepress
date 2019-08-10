@@ -1,14 +1,14 @@
-# Tutorials for teach
+# Zoom Tutorials
 
-- when you see **bold content** means you can find it on your screen.
-- when you see ⚠️ means you need to take attention.
-- when you see suffix * means it's very important content.
+- When you see **bold content** means you can find it on your screen.
+- When you see ⚠️ means you need to take attention.
+- When you see suffix * means it's very important content.
 
 ## Zoom DIL
 
 ### Download
 
-> Download the Zoom Client for Meetings
+Download the Zoom Client for Meetings
 
 - Direct Download link for windows :  [https://zoom.us/client/latest/ZoomInstaller.exe](https://zoom.us/client/latest/ZoomInstaller.exe)
 
@@ -35,6 +35,8 @@ After signing in, you will see the **Home** tab.
 
 
 ## Settings*
+
+
 
 ### PMI(Personal Metting ID)
 
@@ -65,14 +67,16 @@ Start a meeting then wait for your student to join.  Click the downwards arrow t
 
 
 
-### Start/Pause Recording *
+### Start / Pause Recording *
 
-Click **Record** button.
+Click **Record** button or click **Pause Recording** button while recording.
 
 ![zoom07.gif](https://i.loli.net/2019/08/06/mGXoCUlNfMgqv28.gif)
 
 - Click the option to **Record**.
-  ![img](https://assets.zoom.us/images/en-us/desktop/generic/record-button.png) ===> ![img](https://assets.zoom.us/images/en-us/desktop/generic/resume-recording.png)
+  
+
+![img](https://assets.zoom.us/images/en-us/desktop/generic/record-button.png) ===> ![img](https://assets.zoom.us/images/en-us/desktop/generic/resume-recording.png)
 
 - If there is a menu, select **Record on this Computer**.
 
@@ -82,33 +86,27 @@ Click **Record** button.
 
 - Once the conversion process is complete, the folder containing the recording files will open.
 
-- Note :
+  
 
-  - By default, the audio/video file (MP4) will be named **Zoom_0.mp4**. The audio only file (M4A) is named **audio_only.m4a**.
-
-  - If the conversion process is not successful after the meeting has ended, you can try to convert the files again by navigating to the recording location and double clicking the recording files.
-
-    
-
-
-### Chat
-
-	Click [Chat] button. 
 
 ### Share whiteboard 
-	Click [Share Screen] button, then choose [whiteboard].
+Click **Share Screen** button, then choose **whiteboard**.
 
 ![zoom08-share.gif](https://i.loli.net/2019/08/06/IiJonvbK2W71TGP.gif)
 
 ### Draw / text on Share
 
-> @see Share whiteboard
+@see Share whiteboard
+
+
 
 ### Stop a share
 
-> Click the red button "Stop Share".
+Click the red button "Stop Share".
 
 ![1565383770628.jpg](https://i.loli.net/2019/08/10/lB6PY2iLKNE4Vbc.jpg)
+
+
 
 ### Share a pdf
 
@@ -117,6 +115,8 @@ Click **Record** button.
 - Choose the application that opened the pdf,
 - Now the student will see your pdf.
 - Then you can draw / text like whiteboard.
+
+
 
 ### Share a video / mp3 
 
@@ -130,15 +130,9 @@ Click **Record** button.
 
 
 
-### Manage participants
-	How to Manage participants? => Click [Manage Participants] button.
-	Student must name like: jack-liuchang can be approved to Participants（your student）
-
-
-
 ### Choose a Virtual Background
 
-> The virtual background feature allows you to display an image as your background during a Zoom Meeting. This feature works best with a green screen and uniform lighting, to allow Zoom to detect the difference between you and your background.
+The virtual background feature allows you to display an image as your background during a Zoom Meeting. This feature works best with a green screen and uniform lighting, to allow Zoom to detect the difference between you and your background.
 
 ![AwesomeScreenshot-nlipoenfbbikpbjkfpfillcgkoblgpmj-upload.html-2019-08-10_3_51.png](https://i.loli.net/2019/08/10/LWzrKJvwaetmFyb.png)
 
@@ -146,16 +140,35 @@ Click **Record** button.
 - ⚠️If your background isn't tidy, you can use this feature.⚠️
 - ⚠️If your computer give bad effect, don't use this feature.⚠️
 
+### Chat
+
+Click **Chat** button. 
+
+
+
 ### Mute / **Unmute**
 
-> Click the Mute / Unmute button
+Click the **Mute** button
+
+Click the **Unmute** button
+
+
+
+### Manage participants
+
+How to Manage participants? => Click [Manage Participants] button.
+Student must name like: jack-liuchang can be approved to Participants（your student）
+
+
 
 ### End Meeting
 
-![AwesomeScreenshot-nlipoenfbbikpbjkfpfillcgkoblgpmj-upload.html-2019-08-10_5_50.png](https://i.loli.net/2019/08/10/aQin7hfFMuAqGs2.png)
 
 - Click red **End Meeting**  button on the bottom controls. 
 - ⚠️ Choose **End Meeting for ALL**   instead of close the app or leave meeting.
+
+
+![AwesomeScreenshot-nlipoenfbbikpbjkfpfillcgkoblgpmj-upload.html-2019-08-10_5_50.png](https://i.loli.net/2019/08/10/aQin7hfFMuAqGs2.png)
 
 ## More
 
