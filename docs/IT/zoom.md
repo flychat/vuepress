@@ -65,11 +65,11 @@ Start a meeting then wait for your student to join.  Click the downwards arrow t
 
   ![zoom06-end.gif](https://i.loli.net/2019/08/06/FxZClduzMBLn547.gif)
 
-
+ 
 
 ### Start / Pause Recording *
 
-Click **Record** button or click **Pause Recording** button while recording.
+Click **Record** button to record, click **Pause Recording** button while recording.
 
 ![zoom07.gif](https://i.loli.net/2019/08/06/mGXoCUlNfMgqv28.gif)
 
@@ -137,8 +137,8 @@ The virtual background feature allows you to display an image as your background
 ![AwesomeScreenshot-nlipoenfbbikpbjkfpfillcgkoblgpmj-upload.html-2019-08-10_3_51.png](https://i.loli.net/2019/08/10/LWzrKJvwaetmFyb.png)
 
 - To achieve the best virtual background effect, Zoom recommends using a solid color background, preferably green. Recommended green screens 
-- ⚠️If your background isn't tidy, you can use this feature.⚠️
-- ⚠️If your computer give bad effect, don't use this feature.⚠️
+- ⚠️If your background isn't tidy, you can use this feature.
+- ⚠️If your computer give bad effect, don't use this feature.
 
 ### Chat
 
@@ -148,16 +148,13 @@ Click **Chat** button.
 
 ### Mute / **Unmute**
 
-Click the **Mute** button
-
-Click the **Unmute** button
+Click the **Mute** button to mute, while in mute state, you can click the **Unmute** button to unmute.
 
 
 
 ### Manage participants
 
-How to Manage participants? => Click [Manage Participants] button.
-Student must name like: jack-liuchang can be approved to Participants（your student）
+Click **Manage Participants** button.
 
 
 
@@ -170,9 +167,11 @@ Student must name like: jack-liuchang can be approved to Participants（your stu
 
 ![AwesomeScreenshot-nlipoenfbbikpbjkfpfillcgkoblgpmj-upload.html-2019-08-10_5_50.png](https://i.loli.net/2019/08/10/aQin7hfFMuAqGs2.png)
 
+
+
 ## More
 
-> If you want to explore more, here are some articles. it's not necessary.
+If you want to explore more features, here are some articles, but it's not necessary.
 
 - Viesos
 
