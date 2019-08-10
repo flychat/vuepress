@@ -1,4 +1,4 @@
-# Tutorials for teachers
+# Tutorials for teach
 
 - when you see **bold content** means you can find it on your screen.
 - when you see ⚠️ means you need to take attention.
