@@ -94,7 +94,7 @@ Click **Share Screen** button, then choose **whiteboard**.
 
 ![zoom08-share.gif](https://i.loli.net/2019/08/06/IiJonvbK2W71TGP.gif)
 
-### Draw / text on Share
+### Annotate on Share
 
 @see Share whiteboard
 
@@ -102,7 +102,7 @@ Click **Share Screen** button, then choose **whiteboard**.
 
 ### Stop a share
 
-Click the red button "Stop Share".
+Click the red button "Stop Share". If you can't see this buttons group, hover on the top of zoom window.
 
 ![1565383770628.jpg](https://i.loli.net/2019/08/10/lB6PY2iLKNE4Vbc.jpg)
 
@@ -118,7 +118,7 @@ Click the red button "Stop Share".
 
 
 
-### Share a video / mp3 
+### Share a mp4 / mp3 
 
 ![AwesomeScreenshot-nlipoenfbbikpbjkfpfillcgkoblgpmj-upload.html-2019-08-10_4_46.png](https://i.loli.net/2019/08/10/OhNDSl1wjnfr4K2.png)
 
@@ -144,7 +144,7 @@ The virtual background feature allows you to display an image as your background
 
 Click **Chat** button. 
 
-
+![bug.gif](https://i.loli.net/2019/09/05/6Cym8Ps9tlxeWV7.gif)
 
 ### Mute / **Unmute**
 
@@ -156,6 +156,13 @@ Click the **Mute** button to mute, while in mute state, you can click the **Unmu
 
 Click **Manage Participants** button.
 
+![1565383770628.jpg](https://i.loli.net/2019/08/10/lB6PY2iLKNE4Vbc.jpg)
+
+This will open the Participants window on the right side of your screen. The host, cohosts and panelists will be listed in one tab and the attendees will be listed in another.
+To Manage Panelists, hover over the panelist's name. 
+
+![img](https://assets.zoom.us/images/en-us/desktop/generic/participant-more-panelist-options.png)
+
 
 
 ### End Meeting
@@ -166,6 +173,44 @@ Click **Manage Participants** button.
 
 
 ![AwesomeScreenshot-nlipoenfbbikpbjkfpfillcgkoblgpmj-upload.html-2019-08-10_5_50.png](https://i.loli.net/2019/08/10/aQin7hfFMuAqGs2.png)
+
+### Accessing  Recording Files
+
+By default, all recordings will be placed in a Zoom folder found in the following file path on these devices:
+
+- **PC:** C:\Users\\*User Name*\Documents\Zoom
+- **Mac:** /Users/*User Name*/Documents/Zoom
+
+To access recording files:
+
+1. Open the Zoom desktop client and click **Meetings**.
+   ![img](https://assets.zoom.us/images/en-us/desktop/generic/meetings/meetings-button.png)
+
+2. Click the **Recorded** tab and select the meeting with a local recording.
+![img](https://assets.zoom.us/images/en-us/desktop/generic/meetings/local-recording-options.png)
+  
+
+   Note :
+
+   - If you have a local recording that hasn't been converted to a video file yet, click **Convert** to convert the recording to a video file and display the options below.
+  
+3. You can access these options to manage your local recordings:
+
+   - **Open**: Open the folder that contains the recording files.
+   - **Play Video**: Play the recorded meeting using your computer's default media player.
+   - **Play Audio**: Play the recorded meeting audio with your computer's default media player.
+   - **Delete**: Remove the meeting from the recording list on the Zoom client. This does not delete it from the computer.
+   - Refresh icon ![img](https://assets.zoom.us/images/en-us/desktop/generic/meetings/refresh-icon.png): Refresh the recording list if you don't see your recording.
+
+
+**Note**: If there are issues opening or playing the file, check the default recording location and ensure the files are in the correct place.
+
+
+## Other
+
+### where is the mp3/mp4
+
+Usually it's located in **Documents** -> **Zoom**  or you can find in the zoom meeting settings options.
 
 
 
