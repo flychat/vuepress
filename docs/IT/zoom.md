@@ -174,6 +174,11 @@ To Manage Panelists, hover over the panelist's name.
 
 ![AwesomeScreenshot-nlipoenfbbikpbjkfpfillcgkoblgpmj-upload.html-2019-08-10_5_50.png](https://i.loli.net/2019/08/10/aQin7hfFMuAqGs2.png)
 
+
+
+## Other
+
+
 ### Accessing  Recording Files
 
 By default, all recordings will be placed in a Zoom folder found in the following file path on these devices:
@@ -202,15 +207,13 @@ To access recording files:
    - **Delete**: Remove the meeting from the recording list on the Zoom client. This does not delete it from the computer.
    - Refresh icon ![img](https://assets.zoom.us/images/en-us/desktop/generic/meetings/refresh-icon.png): Refresh the recording list if you don't see your recording.
 
-
 **Note**: If there are issues opening or playing the file, check the default recording location and ensure the files are in the correct place.
 
+### Share a ppt
 
-## Other
+when you share a ppt, remember to maximize the ppt by click the Button ![1567775065807.jpg](https://i.loli.net/2019/09/06/HRV6wQebnas95oB.jpg) or Press F5 in your keyboard.
 
-### where is the mp3/mp4
-
-Usually it's located in **Documents** -> **Zoom**  or you can find in the zoom meeting settings options.
+![ppt.gif](https://i.loli.net/2019/09/06/voUjc18aPXeF7xY.gif)
 
 
 
