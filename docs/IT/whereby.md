@@ -40,13 +40,16 @@
 ### 2.1 Join by Link
 
 - just click the link blew or direct input https://whereby.com/123456789
-
-- ![005.jpg](https://i.loli.net/2019/09/09/j5xODCgAJBIX37Y.jpg)
+![005.jpg](https://i.loli.net/2019/09/09/j5xODCgAJBIX37Y.jpg)
 
 ### 2.2 Allow Cam/mic
-- click **Allow Cam/mic**![006.jpg](https://i.loli.net/2019/09/09/8g1oXCjiV2tLnyD.jpg)
+- click **Allow Cam/mic**
+![006.jpg](https://i.loli.net/2019/09/09/8g1oXCjiV2tLnyD.jpg)
+
 - if pop up window click "Allow" then you will see your self![007.jpg](https://i.loli.net/2019/09/09/lkvJoOZIwx5pHs4.jpg)
-- then click "Join Idxxxx" ![008.jpg](https://i.loli.net/2019/09/09/QkG9lFX4vamCzpR.jpg)
+
+### 2.3 Then click "Join Idxxxx" 
+![008.jpg](https://i.loli.net/2019/09/09/QkG9lFX4vamCzpR.jpg)
 
 
 
@@ -70,9 +73,15 @@
 
 - click **Open Chat**
 
+## 6.Lock the class
+
+- In case Guest join, you can click the **Lock** after your student join in.
+![011.jpg](https://i.loli.net/2019/09/09/26JHlueVqrtQhka.jpg)
+
 ## 6. Remove Guest
 
-- If Guest enter while you having class, you can remove by click the topRight of the Guest.![010.jpg](https://i.loli.net/2019/09/09/h8uLefvEFGPmwsM.jpg)
+- If Guest enter while you having class, you can remove by click the topRight of the Guest.
+![010.jpg](https://i.loli.net/2019/09/09/h8uLefvEFGPmwsM.jpg)
 
 ## 7. End Class
 
