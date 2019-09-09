@@ -86,5 +86,21 @@
 ## 7. End Class
 
 - Never click **Leave** button before you remove the Student, after you remove you can click now the Leave.
-- For now you can't **Record** so if you are using this software, no need to record.
 
+## 8. FAQs
+
+### 8.1 How to **Record**?
+
+- No need to record for now.
+
+### 8.2 How to Change Room ID?
+
+- Don't Change it unless you're told set a wrong ID
+  - the ID must same as your zoom ID:  9391632951
+  - a wrong ID example:  939-163-2951
+    - don't with **-**
+- To change your Room Name/ID.
+  - remove first by click X
+    ![005.jpg](https://i.loli.net/2019/09/09/j5xODCgAJBIX37Y.jpg)
+  - then you'll see 
+    ![004.jpg](https://i.loli.net/2019/09/09/N7DFsdGIi2rXQZT.jpg)

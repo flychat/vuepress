@@ -3,8 +3,9 @@
 - Be on time!
 - Be patient!
 - Be passion!
-- Be familiar with zoom.
+- Be familiar with zoom/whereby.
   - @see  [Zoom Tutorials](./zoom.html)
+  - @see [whereby Tutorials](./whereby.html)
 - Good preparation is preferring, eg: make a ppt
 - Be sure to check the following list 1 by 1 while having class.
 
