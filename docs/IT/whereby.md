@@ -85,6 +85,6 @@
 
 ## 7. End Class
 
-- Never click ** Leave** button before you remove the Student, after you remove you can click now the Leave.
+- Never click **Leave** button before you remove the Student, after you remove you can click now the Leave.
 - For now you can't **Record** so if you are using this software, no need to record.
 
