@@ -96,7 +96,7 @@
 
 ### 8.1 Download and install Bandicam
 
-- Download link: http://share.wechat.edu.pl/software/Bandicam.zip
+- Download link: [http://share.wechat.edu.pl/software/Bandicam.zip](http://share.wechat.edu.pl/software/Bandicam.zip)
 - After download, unzip the Bandicam.zip file. you'll see like blew.
 - ![image.png](https://i.loli.net/2019/09/10/dWOgRkxYsCwiPqj.png)
 
