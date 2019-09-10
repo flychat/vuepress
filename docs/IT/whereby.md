@@ -152,3 +152,9 @@ Instead of using the deault avi format, we need change to mp4.
     ![005.jpg](https://i.loli.net/2019/09/09/j5xODCgAJBIX37Y.jpg)
   - then you'll see 
     ![004.jpg](https://i.loli.net/2019/09/09/N7DFsdGIi2rXQZT.jpg)
+
+### 10.2 How to unzip?
+
+- Double click the zip file then drag to a folder or select a folder. 
+- Or [https://www.google.com/search?q=how+to+unzip+a+file](https://www.google.com/search?q=how+to+unzip+a+file)
+
