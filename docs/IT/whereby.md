@@ -1,5 +1,10 @@
 # Whereby for teacher
 
+## 0. Must use google Chrome
+
+- If you don't have google Chrome browser, you can download use this link.
+  - https://www.google.com/intl/en/chrome/
+
 ## 1. Apply an account
 
 ![001.png](https://i.loli.net/2019/09/09/YOUvTEj21SmskXC.jpg)
@@ -87,13 +92,49 @@
 
 - Never click **Leave** button before you remove the Student, after you remove you can click now the Leave.
 
-## 8. FAQs
+## 8. Record
 
-### 8.1 How to **Record**?
+### 8.1 Download and install Bandicam
 
-- No need to record for now.
+- Download link: http://share.wechat.edu.pl/software/Bandicam.zip
+- After download, unzip the Bandicam.zip file. you'll see like blew.
+- ![image.png](https://i.loli.net/2019/09/10/dWOgRkxYsCwiPqj.png)
 
-### 8.2 How to Change Room ID?
+### 8.2 Click the 【01ClickMeFirst.exe】
+
+-	Step by step to install (keep all settings default)
+
+### 8.2 Click the 【02ThenClickMe.exe】
+
+- Then click the button **Crack Bandicam ** button
+  - ![image.png](https://i.loli.net/2019/09/10/wZMK27BNR3F8Iph.png)
+- Then see the success message, clike "OK" 
+  - ![image.png](https://i.loli.net/2019/09/10/Voj8pftqig6AkYI.png)
+
+
+
+### 8.3 Open Bandicam you installed
+
+![image.png](https://i.loli.net/2019/09/10/FZuYVa6hi1XSBqK.png)
+
+Here you go
+
+![image.png](https://i.loli.net/2019/09/10/wpuoQ5zevRMPL1O.png)
+
+### 8.4 setting record area
+
+![屏幕快照 2019-09-10 上午10.32.51.png](https://i.loli.net/2019/09/10/gVySi4FAEPKmOMW.png)
+
+### 8.5  setting mic
+
+![屏幕快照 2019-09-10 上午10.39.04.png](https://i.loli.net/2019/09/10/LVeRytAW1hjEMxz.png)
+
+
+
+
+## 9. FAQs
+
+### 9.1 How to Change Room ID?
 
 - Don't Change it unless you're told set a wrong ID
   - the ID must same as your zoom ID:  9391632951
@@ -104,3 +145,8 @@
     ![005.jpg](https://i.loli.net/2019/09/09/j5xODCgAJBIX37Y.jpg)
   - then you'll see 
     ![004.jpg](https://i.loli.net/2019/09/09/N7DFsdGIi2rXQZT.jpg)
+
+
+
+## 
+
