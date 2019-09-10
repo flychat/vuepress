@@ -79,9 +79,11 @@
 
 - Click **Open Chat**
 
-## 6.Lock the class
+## 6. Lock
 
 - In case Guest join, you can click the **Lock** after your student join in.
+- Don't Lock until your student join in.
+- Let Monika join in anytime.
 ![011.jpg](https://i.loli.net/2019/09/09/26JHlueVqrtQhka.jpg)
 
 ## 7. Remove Guest
@@ -105,16 +107,16 @@
 
 -	Click the 【01ClickMeFirst.exe】then step by step to install (keep all settings default)
 
-### 9.2 Crack
+### 9.3 Crack
 
 - Click the 【02ThenClickMe.exe】then click the button **Crack Bandicam ** button
-![image.png](https://i.loli.net/2019/09/10/wZMK27BNR3F8Iph.png)
+- If you're fails, maybe you installed  avast software,  you need disable for a while or uninstall it.![image.png](https://i.loli.net/2019/09/10/wZMK27BNR3F8Iph.png)
 - Then see the success message, clike "OK" 
 ![image.png](https://i.loli.net/2019/09/10/Voj8pftqig6AkYI.png)
 
 
 
-### 9.3 Meet Bandicam
+### 9.4 Meet Bandicam
 
 Open **All Programes** from your windows then select the folder, click the first one **Bandicam**
 
@@ -124,15 +126,15 @@ Here you go. see the big **REC** button and the Pause **||** button ?
 
 ![image.png](https://i.loli.net/2019/09/10/wpuoQ5zevRMPL1O.png)
 
-### 9.4 Setting record area
+### 9.5 Setting record area
 
 ![屏幕快照 2019-09-10 上午10.32.51.png](https://i.loli.net/2019/09/10/gVySi4FAEPKmOMW.png)
 
-### 9.5  Setting Microphone
+### 9.6  Setting Microphone
 
 ![屏幕快照 2019-09-10 上午10.39.04.png](https://i.loli.net/2019/09/10/LVeRytAW1hjEMxz.png)
 
-### 9.6 Setting Mp4 
+### 9.7 Setting Mp4 
 
 Instead of using the deault avi format, we need change to mp4.
 
