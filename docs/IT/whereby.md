@@ -140,6 +140,9 @@ Instead of using the deault avi format, we need change to mp4.
 
 ![settingMp4.png](https://i.loli.net/2019/09/10/eQpXyDiJHEcUdYl.png)
 
+### 9.8 Update/Upgrade
+
+- Never Update/Upgrade this software or you'll need reinstall & do step 1-7
 
 ## 10. FAQs
 
