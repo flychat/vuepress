@@ -31,34 +31,40 @@ After install, you open it by double click the logo on your desktop, here you go
 - ⚠️ You must Input your **Mobile** & **Captcha** first, then you can Retrieve Verify Code by Sms.
 - If you'd like input the Referral here is an Invitation code：JVO7OC
 
+## 5. Set Your name
 
-## 5. Login
+After sign up successful, you can see blow page. Set your name as **Teacher Linda** then click the big blue button to Save.
+
+Here you also can find your **PMI**( Personal meeting ID), which you need told us to join in your meeting.![image.png](https://i.loli.net/2019/09/11/h67E5MYwsfOyTFG.png)
+
+
+## 6. Login
 
 Click **Sign In** the you'll see this, input your account info then click **Agree** to login.
 
 ![image.png](https://i.loli.net/2019/09/11/kXMtwG4SIyQpAZx.png)
 
-## 6. Meet our new Zhumu
+## 7. Meet our new Zhumu
 
 After you login here is our new Zhumu
 
-![image.png](https://i.loli.net/2019/09/11/BXrOo26DG9Mx7YI.png)
+<img src="https://i.loli.net/2019/09/11/BXrOo26DG9Mx7YI.png" alt="image.png" style="zoom:50%;" />
 
 
 
-## 7. Setting PMI
+## 8. Setting PMI
 
 Click the **Meetings** button on the bottom besides **Home**
 
 then Click "Always use PMI for instant meetings on this computer"
 
-![image.png](https://i.loli.net/2019/09/11/3Fmp6SRhDiLzZsG.png)
+<img src="https://i.loli.net/2019/09/11/3Fmp6SRhDiLzZsG.png" alt="image.png" style="zoom:50%;" />
 
-## 8. Open meeting?
+## 9. Open meeting?
 
 Click **Start with Video**
 
-![image.png](https://i.loli.net/2019/09/11/yGPUCQHkOFT1sRL.png)
+<img src="https://i.loli.net/2019/09/11/yGPUCQHkOFT1sRL.png" alt="image.png" style="zoom:67%;" />
 
 ## 9. Other plz reference [zoom tutorials](zoom.html)
 
