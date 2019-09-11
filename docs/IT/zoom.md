@@ -3,8 +3,9 @@
 - When you see **bold content** means you can find it on your screen.
 - When you see ⚠️ means you need to take attention.
 - When you see suffix * means it's very important content.
+- for the (departed)⚠️  section, plz refer [Chinese version zhumu document](zhumu.html).
 
-## Zoom DIL
+## Zoom DIL(departed)⚠️ 
 
 ### Download
 
@@ -23,8 +24,7 @@ Double Click the ZoomInstaller.exe , Keep settings default, or Flow this screens
 
 ### Login
 
-After launching Zoom, click **Sign In** to log in with email & password which we provided.
-⚠️ Don't register yourself. We will provide an account for you.
+After launching Zoom, click **Sign In** to login.
 
 ![img](https://assets.zoom.us/images/en-us/desktop/generic/home/join-meeting-or-sign-in-screen.png)
 
@@ -34,7 +34,7 @@ After signing in, you will see the **Home** tab.
 
 
 
-## Settings*
+## Settings(departed)⚠️ 
 
 
 
