@@ -14,21 +14,22 @@ Download Link
 
 ## 2. Install
 
-Double click the downloaded file: zhume.exe or zhumu_xp.exe to install it.
+Double click the downloaded file: **zhume.exe** or **zhumu_xp.exe** to install it.
 
 ## 3. Open
 
-After install, you open it by double click the logon on your desktop, Here you go!
+After install, you open it by double click the logo on your desktop, here you go!
 
 ![image.png](https://i.loli.net/2019/09/11/seUN5h9mcgHjDY6.png)
 
 ## 4. Sign Up
 
 
-- Click [here](https://www.zhumu.me/User/EnglishRegisterByReferee) to register or click the **Sign Up** button above. 
+- Click [https://www.zhumu.me/User/EnglishRegisterByReferee](https://www.zhumu.me/User/EnglishRegisterByReferee) to register.  
   Then you can see blow register form.
   ![image.png](https://i.loli.net/2019/09/11/OShzl6bnxcM3wLU.png)
-  If you'd like input the Referral here is an Invitation code：JVO7OC
+- ⚠️ You must Input your **Mobile** & **Captcha** first, then you can Retrieve Verify Code by Sms.
+- If you'd like input the Referral here is an Invitation code：JVO7OC
 
 
 ## 5. Login
