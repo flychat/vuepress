@@ -8,9 +8,9 @@ It look like this:
 
 Download Link
 
-- Windows 7, 8, 10 :  http://downloads.zhumu.me/client/latest/zhumu.exe
+- Windows 7, 8, 10 :  [http://downloads.zhumu.me/client/latest/zhumu.exe](http://downloads.zhumu.me/client/latest/zhumu.exe)
   - if you use Windows XP use this link to download plz
-    -  http://downloads.zhumu.me/client/latest/zhumu_xp.exe
+    -  [http://downloads.zhumu.me/client/latest/zhumu_xp.exe](http://downloads.zhumu.me/client/latest/zhumu_xp.exe)
 
 ## 2. Install
 
