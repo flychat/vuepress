@@ -39,7 +39,7 @@ Here you also can find your **PMI**( Personal meeting ID), which you need told u
 
 ![屏幕快照 2019-09-12 上午6.41.44.png](https://i.loli.net/2019/09/12/j2ki8XKlSWd5nIN.png)
 
-if you can see this page: you can login here: [https://www.zhumu.me/User/Login](https://www.zhumu.me/User/Login) @see 9
+if you can't see this page: you can log in here: [https://www.zhumu.me/User/Login](https://www.zhumu.me/User/Login) @see 9
 
 ## 6. Login Software
 
@@ -63,8 +63,9 @@ then Click "Always use PMI for instant meetings on this computer"
 
 <img src="https://i.loli.net/2019/09/11/3Fmp6SRhDiLzZsG.png" alt="image.png" style="zoom:50%;" />
 
-
 ## 9. Login to change name
+
+log in Link: [https://www.zhumu.me/User/Login](https://www.zhumu.me/User/Login)
 
 ![屏幕快照 2019-09-12 上午8.20.51.png](https://i.loli.net/2019/09/12/4MO9cZt3EYxXDNR.png)
 
