@@ -1,4 +1,4 @@
-# Chinese Version of zoom
+# Zhumu Tutorials
 
 It look like this:
 
@@ -31,20 +31,23 @@ After install, you open it by double click the logo on your desktop, here you go
 - ⚠️ You must Input your **Mobile** & **Captcha** first, then you can Retrieve Verify Code by Sms.
 - If you'd like input the Referral here is an Invitation code：JVO7OC
 
-## 5. Set Your name
+## 5. Set Your Name *
 
 After sign up successful, you can see blow page. Set your name as **Teacher Linda** then click the big blue button to Save.
 
-Here you also can find your **PMI**( Personal meeting ID), which you need told us to join in your meeting.![image.png](https://i.loli.net/2019/09/11/h67E5MYwsfOyTFG.png)
+Here you also can find your **PMI**( Personal meeting ID), which you need told us to join in your meeting.
 
+![屏幕快照 2019-09-12 上午6.41.44.png](https://i.loli.net/2019/09/12/j2ki8XKlSWd5nIN.png)
 
-## 6. Login
+if you can see this page: you can login here: [https://www.zhumu.me/User/Login](https://www.zhumu.me/User/Login) @see 9
+
+## 6. Login Software
 
 Click **Sign In** the you'll see this, input your account info then click **Agree** to login.
 
 ![image.png](https://i.loli.net/2019/09/11/kXMtwG4SIyQpAZx.png)
 
-## 7. Meet our new Zhumu
+## 7. Meet Zhumu
 
 After you login here is our new Zhumu
 
@@ -52,7 +55,7 @@ After you login here is our new Zhumu
 
 
 
-## 8. Setting PMI
+## 8. Setting PMI *
 
 Click the **Meetings** button on the bottom besides **Home**
 
@@ -60,11 +63,16 @@ then Click "Always use PMI for instant meetings on this computer"
 
 <img src="https://i.loli.net/2019/09/11/3Fmp6SRhDiLzZsG.png" alt="image.png" style="zoom:50%;" />
 
-## 9. Open meeting?
+
+## 9. Login to change name
+
+![屏幕快照 2019-09-12 上午8.20.51.png](https://i.loli.net/2019/09/12/4MO9cZt3EYxXDNR.png)
+
+## 10. Open meeting?
 
 Click **Start with Video**
 
 <img src="https://i.loli.net/2019/09/11/yGPUCQHkOFT1sRL.png" alt="image.png" style="zoom:67%;" />
 
-## 9. Other plz reference [zoom tutorials](zoom.html)
+## 11. Other plz reference [zoom tutorials](zoom.html)
 
