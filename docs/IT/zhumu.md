@@ -74,5 +74,10 @@ Click **Start with Video**
 
 <img src="https://i.loli.net/2019/09/11/yGPUCQHkOFT1sRL.png" alt="image.png" style="zoom:67%;" />
 
-## 11. Other plz reference [zoom tutorials](zoom.html)
+## 11. Still have questions?
+
+Check this video again.
+
+<video><source src="https://cdn.wechat.edu.pl/mp4/tmp/zhumu-teacher.mp4" type="video/mp4"></video>
+## 12. Other plz reference [zoom tutorials](zoom.html)
 
