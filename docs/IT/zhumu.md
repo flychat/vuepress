@@ -78,6 +78,6 @@ Click **Start with Video**
 
 Check this video again.
 
-<video controls="controls"  width="60%" ><source src="https://cdn.wechat.edu.pl/mp4/tmp/zhumu-teacher.mp4" type="video/mp4"></video>
+<video controls="controls"  width="80%" ><source src="https://cdn.wechat.edu.pl/mp4/tmp/zhumu-teacher.mp4" type="video/mp4"></video>
 ## 12. Other plz reference [zoom tutorials](zoom.html)
 
