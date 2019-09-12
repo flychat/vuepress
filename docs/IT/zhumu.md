@@ -82,3 +82,12 @@ Check this video again.
 <video controls="controls"  width="80%" ><source src="https://cdn.wechat.edu.pl/mp4/tmp/zhumu-teacher.mp4" type="video/mp4"></video>
 ## 12. Other plz reference [zoom tutorials](zoom.html)
 
+Form **Meeting Controls** parts.
+
+
+
+## 13. upload mp3/mp4
+
+Here is wher Recorded located.
+
+![屏幕快照 2019-09-12 下午6.16.02.png](https://i.loli.net/2019/09/12/CfKnBeXYQO9jTqv.png)
