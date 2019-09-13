@@ -89,42 +89,12 @@ then you'll see below pic
 
 
 
-## 7. Still have questions about step 1-5?
+## 7. Guide Video
 
 Check this video again.
 
 <video controls="controls"  width="80%" ><source src="https://cdn.wechat.edu.pl/mp4/tmp/zhumu-teacher.mp4" type="video/mp4"></video>
-## 8. LMS our class platform
 
-### 8.1 How to Evaluation
-
-![eva.gif](https://i.loli.net/2019/09/13/eE62naT8qVUZIjp.gif)
-
-
-
-
-### 8.2. How to upload records
-
-There are 2 ways below you can follow by any one is ok.
-
-#### 8.2.1 Upload by drag
-
-![uploads.gif](https://i.loli.net/2019/09/13/bgD8iF5EzRSGPUt.gif)
-
-
-
-#### 8.2.2 Upload by select files
-
-![uploads2.gif](https://i.loli.net/2019/09/13/2iw9LKfu3VRs8gJ.gif)
-
-
-### 8.2.3. where are the records
-
-Here is wher Recorded located.
-
-![屏幕快照 2019-09-12 下午6.16.02.png](https://i.loli.net/2019/09/12/CfKnBeXYQO9jTqv.png)
-
-
-## 9. Other about Zhumu client reference [zoom tutorials](zoom.html)
+## 8. Other about Zhumu client reference [zoom tutorials](zoom.html)
 
 Form **Meeting Controls** parts.
