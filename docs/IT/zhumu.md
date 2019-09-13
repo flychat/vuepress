@@ -14,16 +14,26 @@ Download Link
   - if you use Windows XP use this link to download plz
     -  [http://downloads.zhumu.me/client/latest/zhumu_xp.exe](http://downloads.zhumu.me/client/latest/zhumu_xp.exe)
 
+
+
 ### 1.2 Install
 
 Double click the downloaded file: **zhume.exe** or **zhumu_xp.exe** to install it.
 
+![install.gif](https://i.loli.net/2019/09/14/kexifWBJyEdP18q.gif)
+
+
+
 ### 1.3 Open
 
-After install, you open it by double click the logo on your desktop, here you go! 
-**Don't click the "Sign Up" button** before you check next step.
+After install, It will automatically open
+or you can open it by **double click** the logo on your desktop, here you go! 
 
 ![image.png](https://i.loli.net/2019/09/11/seUN5h9mcgHjDY6.png)
+
+**Don't click the "Sign Up" button** before you check next step.
+
+
 
 ## 2. Sign Up
 
@@ -32,7 +42,9 @@ After install, you open it by double click the logo on your desktop, here you go
   Then you can see blow register form.
   ![image.png](https://i.loli.net/2019/09/11/OShzl6bnxcM3wLU.png)
 - ⚠️ You must Input your **Mobile** & **Captcha** first, then you can Retrieve Verify Code by Sms.
-- If you'd like input the Referral here is an Invitation code：JVO7OC
+- No need input the last **Referral**
+
+
 
 ## 3. Set Your Name *
 
@@ -56,45 +68,54 @@ If you didn't do step 3.0, please click this link to  login and the see step 3.0
 
 
 
-## 4. Login Zhumu Client
+## 4. Sign In Zhumu Client
 
-Click **Sign In** the you'll see this, input your account info then click **Agree** to login.
+Click **Sign In** button, then input your Email and password your set in step 2.
 
-![image.png](https://i.loli.net/2019/09/11/kXMtwG4SIyQpAZx.png)
-
-### 4.1. Meet Zhumu
-
-After you login, you can see below pic.
-
-<img src="https://i.loli.net/2019/09/11/BXrOo26DG9Mx7YI.png" alt="image.png" style="zoom:50%;" />
+![](https://cdn.wechat.edu.pl/images/2019/09/14/vZ7gf66TL1/login.gif)
 
 
 
 ## 5. Setting PMI *
 
-Click the **Meetings** button on the bottom besides **Home**
+Click the **Meetings** button on the bottom besides **Home**,
 
-then Click "Always use PMI for instant meetings on this computer"
+then Click **Always use PMI for instant meetings on this computer**
 
-<img src="https://i.loli.net/2019/09/11/3Fmp6SRhDiLzZsG.png" alt="image.png" style="zoom:50%;" />
-
-
-## 6. Open a meeting?
-
-Click **Start with Video**
-
-<img src="https://i.loli.net/2019/09/11/yGPUCQHkOFT1sRL.png" alt="image.png" style="zoom:67%;" />
-
-then you'll see below pic
+![pmi.gif](https://i.loli.net/2019/09/14/vxJigMaCWEc9dIb.gif)
 
 
 
-## 7. Guide Video
 
-Check this video again.
+## 6. Meeting control
+![newmeeting_record.gif](https://i.loli.net/2019/09/14/csaZGeQXbqN2vyO.gif)
 
-<video controls="controls"  width="80%" ><source src="https://cdn.wechat.edu.pl/mp4/tmp/zhumu-teacher.mp4" type="video/mp4"></video>
+### 6.1 New meeting
+New meeting with your own PMI by clicking **Start with Video**.
+**Double check if you have selected your PMI**
+@see above gif.
 
-## 8. Other about Zhumu client reference [zoom tutorials](zoom.html)
+### 6.2 Record
+Record while having meeting.
+Click the **Record** button on the bottom then you'll see recording.
+@see above gif.
+
+### 6.3 End meeting 
+End meeting in the right way
+Click the red text besides **Record** button, then choose **End Meeting for ALL**
+@see above gif.
+
+### 6.4 Accessing Recording Files
+Find the Recorded files folder.
+Click **Meetings**  Besides  **Home**
+@see above gif.
+
+
+
+### 6.5 Set virtual background
+
+
+
+## 7. Other about Zhumu client reference [zoom tutorials](zoom.html)
 
 Form **Meeting Controls** parts.
