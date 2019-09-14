@@ -1,6 +1,6 @@
 # Zhumu Tutorials
 
-It look like this:
+It looks like this:
 
 ![image.png](https://i.loli.net/2019/09/11/GTpyJcnOi5H6s21.png)
 
@@ -114,7 +114,11 @@ Click **Meetings**  Besides  **Home**
 
 ### 6.5 Set virtual background
 
+![屏幕快照 2019-09-14 上午7.05.15.png](https://i.loli.net/2019/09/14/kpalzfjOi9gcY5s.png)
 
+Click **Enable this feature anyway** if you see it.
+
+![image.png](https://i.loli.net/2019/09/14/IhjSdtN5yGnpf3m.png)
 
 ## 7. Other about Zhumu client reference [zoom tutorials](zoom.html)
 
