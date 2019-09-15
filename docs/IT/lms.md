@@ -31,7 +31,9 @@ click the yellow **EVALUATION** button to write Evaluation with template.
 
 ## 4. Upload records
 
-There are 2 ways below you can follow by any one is ok.
+There are 2 ways below you can follow by any one is ok. 
+
+⚠️ For it's need minutes to uploading, when you click the **Save** button, plz don't close the page,  wait until the page auto-refresh or you see 100% precent. 
 
 ### 4.1 Upload by drag
 
