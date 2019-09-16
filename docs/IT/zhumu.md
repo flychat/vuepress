@@ -120,6 +120,11 @@ Click **Enable this feature anyway** if you see it.
 
 ![image.png](https://i.loli.net/2019/09/14/IhjSdtN5yGnpf3m.png)
 
+### 6.6 Download more virtual background 
+
+- [Click here to download](http://share.wechat.edu.pl/images/zhumu-virtual-background.zip)
+- [Click here to view online](http://share.wechat.edu.pl/images/)
+
 ## 7. Other about Zhumu client reference [zoom tutorials](zoom.html)
 
 Form **Meeting Controls** parts.
