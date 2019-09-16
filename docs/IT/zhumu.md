@@ -161,7 +161,7 @@ Click the red button "Stop Share". If you can't see this buttons group, hover on
 
 ####7.3.1 Annotate on ppt
 
-@see **[7.1.1 Annotate on Share](#7.1.1 Annotate on Share)**
+@see 7.1.1 Annotate on Share
 
 ### 7.3 Share a pdf
 
@@ -173,7 +173,7 @@ Click the red button "Stop Share". If you can't see this buttons group, hover on
 
 ####7.4.1Annotate on pdf
 
-@see **[7.1.1 Annotate on Share](#7.1.1 Annotate on Share)**
+@see 7.1.1 Annotate on Share
 
 #### 7.4.2 Zoom a pdf
 
@@ -195,11 +195,13 @@ Or other pdf viewer application, you can find simlar tools or icons  like
 - 4.Click the checkbox to Share computer sound **
 - 5.unpause your media player.
 
-##8. Manage participants
 
-How to remove Guest while having class?
 
-Click **Manage Participants** button.
+## 8. Manage participants
+
+**How to remove Guest while having class?**
+
+- Click **Manage Participants** button.
 
 ![1565383770628.jpg](https://i.loli.net/2019/08/10/lB6PY2iLKNE4Vbc.jpg)
 
