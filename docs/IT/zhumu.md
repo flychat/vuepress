@@ -197,6 +197,8 @@ Or other pdf viewer application, you can find simlar tools or icons  like
 
 ##8. Manage participants
 
+How to remove Guest while having class?
+
 Click **Manage Participants** button.
 
 ![1565383770628.jpg](https://i.loli.net/2019/08/10/lB6PY2iLKNE4Vbc.jpg)
