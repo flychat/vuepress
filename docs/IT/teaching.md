@@ -7,7 +7,9 @@
 - Prepare classes properly! (LESSONS PROVIDED )
 - **You can open or print this todo lists, and read and follow it before class.**
 
-# Todo lists![stress-to-do-listen_0.png](https://i.loli.net/2019/09/06/v3MY6nXRqzj2Wag.png)
+# Todo lists
+
+![](http://share.wechat.edu.pl/images/2019/09/17/JT7CHGexg5/1568718246121.jpg)
 
 - 1. 5-10 minutes before the class begins, keep your Skype online and send a ready message to Monika 
 

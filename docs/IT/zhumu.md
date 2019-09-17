@@ -1,7 +1,3 @@
-# Zhumu Tutorials
-
-It looks like this:
-
 ![image.png](https://i.loli.net/2019/09/11/GTpyJcnOi5H6s21.png)
 
 # 1. DIO
@@ -48,7 +44,7 @@ or you can open it by **double click** the logo on your desktop, here you go!
 
 # 3. Set Your Name *
 
-## 3.0 Change after Sign Up
+## 3.1 Change after Sign Up
 
 After sign up successful, you can see blow page. Set your name as **Teacher Linda** then click the big blue button to Save.
 
@@ -58,13 +54,11 @@ Here you also can find your **PMI**( Personal meeting ID), which you need told u
 
 
 
-## 3.1 Login to change
+## 3.2 Login to change
 
 If you didn't do step 3.0, please click this link to  login and the see step 3.0 pic: [https://www.zhumu.me/User/Login](https://www.zhumu.me/User/Login)
 
 ![屏幕快照 2019-09-12 上午8.20.51.png](https://i.loli.net/2019/09/12/4MO9cZt3EYxXDNR.png)
-
-
 
 
 
@@ -81,6 +75,8 @@ Click **Sign In** button, then input your Email and password your set in step 2.
 Click the **Meetings** button on the bottom besides **Home**,
 
 then Click **Always use PMI for instant meetings on this computer**
+
+**make sure it's checked!**
 
 ![pmi.gif](https://i.loli.net/2019/09/14/vxJigMaCWEc9dIb.gif)
 
@@ -141,13 +137,13 @@ Click **Share Screen** button, then choose **whiteboard**.
 
 ![zoom08-share.gif](https://i.loli.net/2019/08/06/IiJonvbK2W71TGP.gif)
 
-### 7.1.1 Annotate on Share
+## 7.2 Annotate on Share
 
-@see **7.1 Share whiteboard** and @see **7.2 Stop a share**
+@see **7.1 Share whiteboard** and @see **7.3 Stop a share**
 
 
 
-## 7.2 Stop a share
+## 7.3 Stop a share
 
 Click the red button "Stop Share". If you can't see this buttons group, hover on the top of zoom window.
 
@@ -155,15 +151,15 @@ Click the red button "Stop Share". If you can't see this buttons group, hover on
 
 
 
-## 7.3 Share a ppt
+## 7.4 Share a ppt
 
 - Open the ppt first, Click **Share** button, Choose the Mircosoft power point application that opened the ppt, then share.
 
-### 7.3.1 Annotate on ppt
+## 7.5 Annotate on ppt
 
-@see 7.1.1 Annotate on Share
+@see **7.2 Annotate on Share**
 
-## 7.3 Share a pdf
+## 7.6 Share a pdf
 
 - Open the pdf first,
 - Click [Share] button, 
@@ -171,11 +167,11 @@ Click the red button "Stop Share". If you can't see this buttons group, hover on
 - Now the student will see your pdf.
 - Then you can draw / text like whiteboard.
 
-### 7.3.1 Annotate on pdf
+## 7.7 Annotate on pdf
 
 @see 7.1.1 Annotate on Share
 
-### 7.3.2 Zoom a pdf
+## 7.8 Zoom a pdf
 
 if you use Chrome to open the pdf. you can follow this link: [https://support.google.com/chrome/answer/96810?hl=en](https://support.google.com/chrome/answer/96810?hl=en) 
 
@@ -185,7 +181,7 @@ Or other pdf viewer application, you can find simlar tools or icons  like
 
 
 
-## 7.5 Share a mp4 / mp3 
+## 7.9 Share a mp4 / mp3 
 
 ![AwesomeScreenshot-nlipoenfbbikpbjkfpfillcgkoblgpmj-upload.html-2019-08-10_4_46.png](https://i.loli.net/2019/08/10/OhNDSl1wjnfr4K2.png)
 
