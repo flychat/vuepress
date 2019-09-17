@@ -1,16 +1,13 @@
 # Instructions
 
-- Be on time! Be patient! Be passion!
+- **Be on time!  Be patient!  Be passion!**
 - Be familiar with zhumu.
   - @see  [Zhumu Tutorials](./zhumu.html)
   - also @see  [Zoom Tutorials](./zoom.html)
 - Prepare classes properly! (LESSONS PROVIDED )
-- Be sure to check the following todo lists **1 by 1** while having class.
+- **You can open or print this todo lists, and read and follow it before class.**
 
-## Workflow
-
-You can open or print this instruction 
-![stress-to-do-listen_0.png](https://i.loli.net/2019/09/06/v3MY6nXRqzj2Wag.png)
+# Todo lists![stress-to-do-listen_0.png](https://i.loli.net/2019/09/06/v3MY6nXRqzj2Wag.png)
 
 - 1. 5-10 minutes before the class begins, keep your Skype online and send a ready message to Monika 
 
@@ -28,7 +25,7 @@ You can open or print this instruction
 
 - 8.  Speak slowly.
 
-- 9.  Wear and keep a smile in your face. 
+- 9.  Wear and keep a smile in your face.😊 
 
 - 10. Repeat yourself if needed in order for the student can follow and understand you. 
 
