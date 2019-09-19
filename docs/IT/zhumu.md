@@ -76,19 +76,24 @@ Click **Sign In** button, then input your Email and password your set in step 2.
 
 Click the **Meetings** button on the bottom besides **Home**,
 
-then Click **Always use PMI for instant meetings on this computer**
+Then Click **Always use PMI for instant meetings on this computer**
 
-**make sure it's checked!**
+**Make sure it's checked  and send screenshot to IT Support!**
 
-![pmi.gif](https://i.loli.net/2019/09/14/vxJigMaCWEc9dIb.gif)
-
+![image.png](https://i.loli.net/2019/09/19/wFKmp1xzGQCvVrY.png)
 
 
 
 ## 6. Meeting control
+
 ![newmeeting_record.gif](https://i.loli.net/2019/09/14/csaZGeQXbqN2vyO.gif)
 
+![image.png](https://i.loli.net/2019/09/19/e5MXfuT4gdnOUab.png)
+
+
+
 ### 6.1 New meeting
+
 New meeting with your own PMI by clicking **Start with Video**.
 **Double check if you have selected your PMI**
 @see above gif.
@@ -96,17 +101,22 @@ New meeting with your own PMI by clicking **Start with Video**.
 ### 6.2 Record
 Record while having meeting.
 Click the **Record** button on the bottom then you'll see recording.
-@see above gif.
 
 ### 6.3 End meeting  
 **End meeting in the right way**
 Click the red text besides **Record** button, then choose **End Meeting for ALL**
-@see above gif.
+
+![image.png](https://i.loli.net/2019/09/19/ouqYAWIMzGTZhCi.png)
+
+
 
 ### 6.4 Accessing Recording Files
+
 Find the Recorded files folder.
 Click **Meetings**  Besides  **Home**
 @see above gif.
+
+![image.png](https://i.loli.net/2019/09/19/X2srIhtDa7TWSwo.png)
 
 
 
@@ -141,7 +151,7 @@ Click **Share Screen** button, then choose **whiteboard**.
 
 ### 7.2 Annotate on Share
 
-@see **7.1 Share whiteboard** and @see **7.3 Stop a share**
+![image.png](https://i.loli.net/2019/09/19/BecVwXAuMySs9tN.png)
 
 
 
@@ -149,7 +159,7 @@ Click **Share Screen** button, then choose **whiteboard**.
 
 Click the red button "Stop Share". If you can't see this buttons group, hover on the top of zoom window.
 
-![1565383770628.jpg](https://i.loli.net/2019/08/10/lB6PY2iLKNE4Vbc.jpg)
+![image.png](https://i.loli.net/2019/09/19/adOpXDA8zVeoNq7.png)
 
 
 
@@ -157,9 +167,9 @@ Click the red button "Stop Share". If you can't see this buttons group, hover on
 
 - Open the ppt first, Click **Share** button, Choose the Mircosoft power point application that opened the ppt, then share.
 
-### 7.5 Annotate on ppt
+### 7.5 Annotate on shared ppt
 
-@see **7.2 Annotate on Share**
+![image.png](https://i.loli.net/2019/09/19/BecVwXAuMySs9tN.png)
 
 ### 7.6 Share a pdf
 
@@ -169,9 +179,9 @@ Click the red button "Stop Share". If you can't see this buttons group, hover on
 - Now the student will see your pdf.
 - Then you can draw / text like whiteboard.
 
-### 7.7 Annotate on pdf
+### 7.7 Annotate on shared pdf
 
-@see 7.1.1 Annotate on Share
+![image.png](https://i.loli.net/2019/09/19/BecVwXAuMySs9tN.png)
 
 ### 7.8 Zoom a pdf
 
@@ -200,13 +210,14 @@ Or other pdf viewer application, you can find simlar tools or icons  like
 **How to remove Guest while having class?**
 
 - Click **Manage Participants** button.
+- Never remove the **Manager** !!!
 
 ![1565383770628.jpg](https://i.loli.net/2019/08/10/lB6PY2iLKNE4Vbc.jpg)
 
 This will open the Participants window on the right side of your screen. The host, cohosts and panelists will be listed in one tab and the attendees will be listed in another.
 To Manage Panelists, hover over the panelist's name. 
 
-![img](https://assets.zoom.us/images/en-us/desktop/generic/participant-more-panelist-options.png)
+![image.png](https://i.loli.net/2019/09/19/YtynhjmofXEliTs.png)
 
 
 

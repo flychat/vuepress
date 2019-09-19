@@ -1,39 +1,36 @@
-# Instructions
+# Class Instructions
 
-- **Be on time!  Be patient!  Be passion!**
-- Be familiar with zhumu.
-  - @see  [Zhumu Tutorials](./zhumu.html)
-  - also @see  [Zoom Tutorials](./zoom.html)
-- Prepare classes properly! (LESSONS PROVIDED )
-- **You can open or print this todo lists, and read and follow it before class.**
+**Be on time!!!  Be patient!!  Be passion!  Be familiar with zhumu.**
+
+Prepare classes properly with PROVIDED LESSONS.
+
+**Speak slowly!  Smile!  Repeat!**
+
+**You can print this todo lists, and read and follow it before class.**
 
 # Todo lists
 
 ![](http://share.wechat.edu.pl/images/2019/09/17/JT7CHGexg5/1568718246121.jpg)
 
-- 1. 5-10 minutes before the class begins, keep your Skype online and send a ready message to Monika 
+- [ ] 1. 5~10 minutes **before the class begins**, keep your Skype online and send a ready message to Monika 
 
-- 2.  Prepare and test your virtual background. 
+- [ ] 2.  Prepare and test your virtual background. 
 
-- 3.  Open your materials(mp4/mp3/ppt/doc) for share.
+- [ ] 3.  Open your materials(mp4/mp3/ppt/doc) for share.
 
-- 4. Click the **Start with Video** button, double check your PMI.
+- [ ] 4. Click the **Start with Video** button, double check your PMI.
 
-- 5. When the time begins, click the record button. 
+- [ ] 5. When the time begins, click the record button. 
 
-- 6. If the student later for 5 minutes, notice Monika by Skype instantly.
+  - ⚠️ No record no pay !
 
-- 7. Please double-check if the student can see your share book. 
+- [ ] 6. If the student later for 5 minutes, notice Monika by Skype instantly.
 
-- 8.  Speak slowly.
+- [ ] 7. Please double-check if the student can see your share book. 
 
-- 9.  Wear and keep a smile in your face.😊 
+- [ ] 8. Take a screenshot **before the class ends** with the indicated time that you called & send it to Ms. Monika. 
 
-- 10. Repeat yourself if needed in order for the student can follow and understand you. 
-
-- 11. Take a screenshot before the class ends with the indicated time that you called & send it to Ms. Monika. 
-
-- 12. Lastly, upload the recorded files & write an evaluation in two days. (if you have later class).
+- [ ] 9. Lastly, upload the recorded files & write an evaluation in two days. (if you have later class).
 
   - ⚠️ It's better not upload than upload a wrong one !!!
     - You uploaded wrong mp3. and the student's parent not happy with us and the student won't enroll us.
