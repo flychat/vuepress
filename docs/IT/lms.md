@@ -8,15 +8,11 @@ In the Captcha, you need input **36** in below picture **for example**.
 
 ![image.png](https://i.loli.net/2019/09/13/cpMZlD5taNGEjRB.png)
 
-
+Still can't sing in? Screenshot the error to IT support plz.
 
 ## 2. ClassRecords
 
-After login the LMS, You can click the **ClassRecords** button.
-
-![image.png](https://i.loli.net/2019/09/13/foKSpPIbQWHZ5qM.png)
-
-then you'll see all your ClassRecords.
+After login the LMS,  you'll see all your ClassRecords.
 
 ![image.png](https://i.loli.net/2019/09/13/N6bnizvE4lBFU5c.png)
 
