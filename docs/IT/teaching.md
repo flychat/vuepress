@@ -28,7 +28,7 @@ Prepare classes properly with PROVIDED LESSONS.
 
 - [ ] 7. Please double-check if the student can see your share book. 
 
-- [ ] 8. Take a screenshot **before the class ends** with the indicated time that you called & send it to Ms. Monika. 
+- [ ] 8. Take a screenshot **before the class ends** with the indicated time that you called & send it to Ms. Monika. (Ask the student smile😊)
 
 - [ ] 9. Lastly, upload the recorded files & write an evaluation in two days. (if you have later class).
 

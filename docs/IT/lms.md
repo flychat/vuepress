@@ -2,7 +2,7 @@
 
 ## 1. Login
 
-Your LoginName is your +639xxxxx and password we provide.
+Your LoginName is your +63xxxxx and password we provide.
 
 ![image.png](https://i.loli.net/2019/09/13/cpMZlD5taNGEjRB.png)
 
@@ -20,11 +20,16 @@ then you'll see all your ClassRecords.
 
 
 
-## 3. How to Evaluation
+## 3. Evaluation
 
-click the yellow **EVALUATION** button to write Evaluation with template.
+Click the yellow **EVALUATION** button to write your class evaluation with the template.
+
+You can fill this page while having class, but don't share all your screen/desktop.
+
+If you use Chrome to open pdf for share, you need another Browser Or You can also use a keyboard **shortcut** to open an Incognito window: Windows, Linux, or **Chrome** OS: Press **Ctrl** + **Shift** + **n**. 
 
 ![eva.gif](https://i.loli.net/2019/09/13/eE62naT8qVUZIjp.gif)
+
 
 
 
@@ -41,9 +46,12 @@ There are 2 ways below you can follow by any one is ok.
 
 
 
+
+
 ### 4.2 Upload by select files
 
 ![uploads2.gif](https://i.loli.net/2019/09/13/2iw9LKfu3VRs8gJ.gif)
+
 
 
 ### 4.3. where are the records
@@ -52,14 +60,18 @@ Here is wher Recorded located.
 
 ![屏幕快照 2019-09-12 下午6.16.02.png](https://i.loli.net/2019/09/12/CfKnBeXYQO9jTqv.png)
 
+
+
 ## 5. How to flag
 
 Click the Red buttons to change the ClassRecords flag status. 
 
 If the class is canceled or aol(we'll notice you before class) you can click AOL button.
 
-If  the student absent( wait for more than 10 minutes), click the **absent** button, **we'll pay for the abscent class.**
+If  the regular student absent( wait for more than 15 minutes), click the **absent** button, **we'll pay for the absent class.**
 
 If you AOL or having holidays,  click the **Holidays** flag button.
 
 ![image.png](https://i.loli.net/2019/09/13/N6bnizvE4lBFU5c.png)
+
+Or you need to change all Yellow buttons to Green to Get Paid by doing step 3 and 4.

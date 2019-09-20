@@ -86,23 +86,32 @@ Then Click **Always use PMI for instant meetings on this computer**
 
 ## 6. Meeting control
 
-![newmeeting_record.gif](https://i.loli.net/2019/09/14/csaZGeQXbqN2vyO.gif)
-
-![image.png](https://i.loli.net/2019/09/19/e5MXfuT4gdnOUab.png)
-
-
+![image.png](https://i.loli.net/2019/09/20/oeB3TbdfxLKGcHj.png)
 
 ### 6.1 New meeting
 
 New meeting with your own PMI by clicking **Start with Video**.
 **Double check if you have selected your PMI**
-@see above gif.
+![image.png](https://i.loli.net/2019/09/20/DQUMHqblrE1IWuh.png)
 
 ### 6.2 Record
-Record while having meeting.
-Click the **Record** button on the bottom then you'll see recording.
+Click the **Record** button on the bottom,
 
-### 6.3 End meeting  
+![image.png](https://i.loli.net/2019/09/20/qEP5uIv9BQhgmCY.png)
+
+then you'll see **recording** on the left top.![image.png](https://i.loli.net/2019/09/20/7aGMxhscnIKqNvL.png)
+
+
+
+### 6.3  Chat
+
+Click **Chat** button. 
+
+![bug.gif](https://i.loli.net/2019/09/05/6Cym8Ps9tlxeWV7.gif)
+
+
+
+### 6.4 End meeting  *
 **End meeting in the right way**
 Click the red text besides **Record** button, then choose **End Meeting for ALL**
 
@@ -110,7 +119,7 @@ Click the red text besides **Record** button, then choose **End Meeting for ALL*
 
 
 
-### 6.4 Accessing Recording Files
+### 6.5 Accessing Recording Files
 
 Find the Recorded files folder.
 Click **Meetings**  Besides  **Home**
@@ -120,18 +129,26 @@ Click **Meetings**  Besides  **Home**
 
 
 
-### 6.5 Set virtual background
-
-![屏幕快照 2019-09-14 上午7.05.15.png](https://i.loli.net/2019/09/14/kpalzfjOi9gcY5s.png)
+### 6.6 Set virtual background *
 
 Click **Enable this feature anyway** if you see it.
 
-![image.png](https://i.loli.net/2019/09/14/IhjSdtN5yGnpf3m.png)
+![image.png](https://i.loli.net/2019/09/20/y8qFPQHaksEUwnY.png)
 
-### 6.6 Download more virtual background 
+Then choose one of  3 default pictures. if you get a not good effect, you can follow pictures step 2,4,3 of below.
+
+![image.png](https://i.loli.net/2019/09/20/I4HiZNz9STmwYef.png)
+
+
+
+### 6.7 More background images
+
+You can download more virtual background by follow links.
 
 - [Click here to download](http://share.wechat.edu.pl/images/zhumu-virtual-background.zip)
 - [Click here to view online](http://share.wechat.edu.pl/images/)
+
+
 
 ## 7. All about share
 
@@ -167,11 +184,25 @@ Click the red button "Stop Share". If you can't see this buttons group, hover on
 
 - Open the ppt first, Click **Share** button, Choose the Mircosoft power point application that opened the ppt, then share.
 
-### 7.5 Annotate on shared ppt
+
+
+### 7.5 Zoom ppt *
+
+- When you share a ppt, remember to maximize the ppt by click the Button
+
+- ![1567775065807.jpg](https://i.loli.net/2019/09/06/HRV6wQebnas95oB.jpg) or Press F5 in your keyboard.
+
+  ![ppt.gif](https://i.loli.net/2019/09/06/voUjc18aPXeF7xY.gif)
+
+  
+
+### 7.6 Annotate on shared ppt
 
 ![image.png](https://i.loli.net/2019/09/19/BecVwXAuMySs9tN.png)
 
-### 7.6 Share a pdf
+
+
+### 7.7 Share a pdf
 
 - Open the pdf first,
 - Click [Share] button, 
@@ -179,11 +210,15 @@ Click the red button "Stop Share". If you can't see this buttons group, hover on
 - Now the student will see your pdf.
 - Then you can draw / text like whiteboard.
 
-### 7.7 Annotate on shared pdf
+
+
+### 7.8 Annotate on shared pdf
 
 ![image.png](https://i.loli.net/2019/09/19/BecVwXAuMySs9tN.png)
 
-### 7.8 Zoom a pdf
+
+
+### 7.9 Zoom a pdf *
 
 if you use Chrome to open the pdf. you can follow this link: [https://support.google.com/chrome/answer/96810?hl=en](https://support.google.com/chrome/answer/96810?hl=en) 
 
@@ -193,7 +228,7 @@ Or other pdf viewer application, you can find simlar tools or icons  like
 
 
 
-### 7.9 Share a mp4 / mp3 
+### 7.10 Share a mp4 / mp3 
 
 ![AwesomeScreenshot-nlipoenfbbikpbjkfpfillcgkoblgpmj-upload.html-2019-08-10_4_46.png](https://i.loli.net/2019/08/10/OhNDSl1wjnfr4K2.png)
 
@@ -221,6 +256,10 @@ To Manage Panelists, hover over the panelist's name.
 
 
 
-## 9. Others
+## 9. Show connected time
 
-Other about Zhumu client reference [zoom tutorials](zoom.html) form **Meeting Controls** parts.
+For you need to take a screenshot **before the class ends** with the indicated time that you called & send it by Skype. 
+
+![image.png](https://i.loli.net/2019/09/20/OilAst2ouxQNWB8.png)
+
+How to take a screenshot?  [You can read this document](./cs.html).
