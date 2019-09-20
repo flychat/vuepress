@@ -4,6 +4,8 @@
 
 Your LoginName is your +63xxxxx and password we provide.
 
+In the Captcha, you need input **36** in below picture **for example**.
+
 ![image.png](https://i.loli.net/2019/09/13/cpMZlD5taNGEjRB.png)
 
 
@@ -40,7 +42,16 @@ There are 2 ways below you can follow by any one is ok.
 
 ⚠️ For it's need minutes to uploading, when you click the **Save** button, plz don't close the page,  wait until the page auto-refresh or you see 100% precent. 
 
-### 4.1 Upload by drag
+
+
+### 4.1 where are the records?
+
+Here is wher Recorded located.
+
+![屏幕快照 2019-09-12 下午6.16.02.png](https://i.loli.net/2019/09/12/CfKnBeXYQO9jTqv.png)
+
+
+### 4.2 Upload by drag
 
 ![uploads.gif](https://i.loli.net/2019/09/13/bgD8iF5EzRSGPUt.gif)
 
@@ -48,17 +59,9 @@ There are 2 ways below you can follow by any one is ok.
 
 
 
-### 4.2 Upload by select files
+### 4.3 Upload by select files
 
 ![uploads2.gif](https://i.loli.net/2019/09/13/2iw9LKfu3VRs8gJ.gif)
-
-
-
-### 4.3. where are the records
-
-Here is wher Recorded located.
-
-![屏幕快照 2019-09-12 下午6.16.02.png](https://i.loli.net/2019/09/12/CfKnBeXYQO9jTqv.png)
 
 
 

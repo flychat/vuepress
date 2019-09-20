@@ -14,5 +14,8 @@ You can read this later.
 
 
 
-## 2.xx 
+## 2.Can't log in?
 
+if the Captcha is 15+4 , you need input 19!
+
+<img src="https://i.loli.net/2019/09/20/1uIQlyHawsmJ7vo.png" alt="image.png" style="zoom: 50%;" />
