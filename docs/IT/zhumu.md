@@ -263,3 +263,16 @@ For you need to take a screenshot **before the class ends** with the indicated t
 ![image.png](https://i.loli.net/2019/09/20/OilAst2ouxQNWB8.png)
 
 How to take a screenshot?  [You can read this document](./cs.html).
+
+
+
+## 10. Forgot Password?
+
+Click this link https://www.zhumu.me/User/ForgetPasswdByEmail and input your email. 
+
+Then click the big blue button.
+
+Then check your email follow the link to reset.
+
+![image.png](https://i.loli.net/2019/10/02/8DZFIS5RBrL4HEp.png)
+
