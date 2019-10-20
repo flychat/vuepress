@@ -1,5 +1,9 @@
 # Praise
 
+- 【88023】|brzwvAydNxU|我不知明天的道路
+- 【88022】|A-lwLIaXafQ|我知誰掌管明天
+- 【88021】|0Q444bzsehU|恩典之路
+- 【88020】|y4Hap3IcrEI|耶和华神已掌权
 - 【88019】|Spp-FgpJiMA|各各他的爱
 - 【88018】|BGUTsI_7wGc|永恒的答问
 - 【88017】|d1kJ4nCbl-0|在这仅存的年间
