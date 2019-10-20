@@ -1,8 +1,8 @@
 # Praise
 
-- 【88019】｜Spp-FgpJiMA｜各各他的爱
-- 【88018】｜BGUTsI_7wGc｜永恒的答问
-- 【88017】｜d1kJ4nCbl-0｜在这仅存的年间
+- 【88019】|Spp-FgpJiMA|各各他的爱
+- 【88018】|BGUTsI_7wGc|永恒的答问
+- 【88017】|d1kJ4nCbl-0|在这仅存的年间
 - 【88016】|Q8er3ORTqrg|单单敬拜2
 - 【88015】|38PKz2VCSWY|单单敬拜
 - 【88014】|dvtU_zoSmFM|空谷的回音
