@@ -68,7 +68,7 @@ If you didn't do step 3.0, please click this link to  login and the see step 3.0
 
 Click **Sign In** button, then input your Email and password your set in step 2.
 
-![](https://cdn.wechat.edu.pl/images/2019/09/14/vZ7gf66TL1/login.gif)
+![](https://cdn.simai.ml/images/2019/09/14/vZ7gf66TL1/login.gif)
 
 
 
@@ -145,8 +145,8 @@ Then choose one of  3 default pictures. if you get a not good effect, you can fo
 
 You can download more virtual background by follow links.
 
-- [Click here to download](http://share.wechat.edu.pl/images/zhumu-virtual-background.zip)
-- [Click here to view online](http://share.wechat.edu.pl/images/)
+- [Click here to download](https://www.51share.ml/images/zhumu-virtual-background.zip)
+- [Click here to view online](https://www.51share.ml/images/)
 
 
 
