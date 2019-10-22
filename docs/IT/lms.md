@@ -2,11 +2,11 @@
 
 ## 1. Login
 
-Your LoginName is your +63xxxxx and password we provide.
+we'll provide LoginName(which usually is your email or telephone number with +63) and password.
 
-In the Captcha, you need input **36** in below picture **for example**.
+In the Captcha, you need input **31** in below picture **for example**.
 
-![image.png](https://i.loli.net/2019/09/13/cpMZlD5taNGEjRB.png)
+![Login.png](https://i.loli.net/2019/10/22/fNUQWbZ4TcsP7Yj.png)
 
 Still can't sing in? Screenshot the error to IT support plz.
 
