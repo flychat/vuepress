@@ -67,7 +67,7 @@ Click the Red buttons to change the ClassRecords flag status.
 
 If the class is canceled or aol(we'll notice you before class) you can click AOL button.
 
-If  the regular student absent( wait for more than 15 minutes), click the **absent** button, **we'll pay for the absent class.**
+If  the regular student absent( wait for more than 15 minutes), click the **absent** button
 
 If you AOL or having holidays,  click the **Holidays** flag button.
 
