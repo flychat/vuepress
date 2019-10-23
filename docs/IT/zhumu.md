@@ -145,8 +145,8 @@ Then choose one of  3 default pictures. if you get a not good effect, you can fo
 
 You can download more virtual background by follow links.
 
-- [Click here to download](https://www.51share.ml/images/zhumu-virtual-background.zip)
-- [Click here to view online](https://www.51share.ml/images/)
+- [Click here to download](https://abc.51share.ml/images/zhumu-virtual-background.zip)
+- [Click here to view online](https://abc.51share.ml/images/)
 
 
 
