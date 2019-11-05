@@ -1,5 +1,7 @@
 # Praise
 
+- 【88030】|-qPwq5D6LrI|成为我异象-简介
+- 【88029】|GWio5mSsTjA|成为我异象
 - 【88028】|yod-VoVC0-U|在基督裡
 - 【88027】|CQhkV3F1lek|在基督裡-天路客
 - 【88026】|duO4RcjkJVc|在基督裡-CN-lrc
