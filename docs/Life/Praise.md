@@ -1,5 +1,6 @@
 # Praise
 
+- 【88031】|s5dDm7U3u3U|Be Thou My Vision 成为我异象
 - 【88030】|-qPwq5D6LrI|成为我异象-简介
 - 【88029】|GWio5mSsTjA|成为我异象
 - 【88028】|yod-VoVC0-U|在基督裡
