@@ -1,5 +1,7 @@
 # Praise
 
+- 【88033】|s5dDm7U3u3U|有谁像你
+- 【88032】|s5dDm7U3u3U|更加与主接近
 - 【88031】|s5dDm7U3u3U|Be Thou My Vision 成为我异象
 - 【88030】|-qPwq5D6LrI|成为我异象-简介
 - 【88029】|GWio5mSsTjA|成为我异象
