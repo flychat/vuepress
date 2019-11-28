@@ -1,5 +1,8 @@
 # Praise
 
+- 【88036】|S3t5Y5_0BLU|主我邀请你
+- 【88035】|s0tl0NBpjmo|我愿触动你心弦
+- 【88034】|Nd3ae8Knwww|一道江河
 - 【88033】|XfVuLH7mNsY|有谁像你
 - 【88032】|FOSF9WwkCRw|更加与主接近
 - 【88031】|s5dDm7U3u3U|Be Thou My Vision 成为我异象
