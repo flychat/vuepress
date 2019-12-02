@@ -38,7 +38,7 @@ or you can open it by **double click** the logo on your desktop, here you go!
 
 - Click [https://www.zhumu.me/User/EnglishRegisterByReferee](https://www.zhumu.me/User/EnglishRegisterByReferee) to register.  
   Then you can see blow register form.
-  ![image.png](https://i.loli.net/2019/09/11/OShzl6bnxcM3wLU.png)
+  ![73399780_1262702760595575_6984508527226126336_n.png](https://i.loli.net/2019/12/02/MiY4Bnxkyr38XHG.png)
 - ⚠️ You must Input your **Mobile** & **Captcha** first, then you can Retrieve Verify Code by Sms.
 - No need input the last **Referral**
 
