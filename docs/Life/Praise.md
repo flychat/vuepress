@@ -1,7 +1,7 @@
 # Praise
 
-- 【88036】|GMTcTCykvHI|這位奇妙嬰孩是誰
-- 【88036】|vePdqblDtW8|聖善夜
+- 【88038】|GMTcTCykvHI|這位奇妙嬰孩是誰
+- 【88037】|vePdqblDtW8|聖善夜
 - 【88036】|S3t5Y5_0BLU|主我邀请你
 - 【88035】|s0tl0NBpjmo|我愿触动你心弦
 - 【88034】|Nd3ae8Knwww|一道江河
