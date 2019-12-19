@@ -1,5 +1,7 @@
 # Praise
 
+- 【88039】|RDpWkBi-cr4|Silent Night-小提琴
+- 【88039】|8Rjae0Ew1N0|平安夜
 - 【88038】|GMTcTCykvHI|這位奇妙嬰孩是誰
 - 【88037】|vePdqblDtW8|聖善夜
 - 【88036】|S3t5Y5_0BLU|主我邀请你

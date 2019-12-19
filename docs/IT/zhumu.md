@@ -33,40 +33,9 @@ or you can open it by **double click** the logo on your desktop, here you go!
 
 
 
-## 2. Sign Up
-
-
-- Click [https://www.zhumu.me/User/EnglishRegisterByReferee](https://www.zhumu.me/User/EnglishRegisterByReferee) to register.  
-  Then you can see blow register form.
-  ![73399780_1262702760595575_6984508527226126336_n.png](https://i.loli.net/2019/12/02/MiY4Bnxkyr38XHG.png)
-- ⚠️ You must Input your **Mobile** & **Captcha** first, then you can Retrieve Verify Code by Sms.
-- No need input the last **Referral**
-
-
-
-## 3. Set Your Name *
-
-### 3.1 Change after Sign Up
-
-After sign up successful, you can see blow page. Set your name as **Teacher Linda** then click the big blue button to Save.
-
-Here you also can find your **PMI**( Personal meeting ID), which you need told us to join in your meeting.
-
-![屏幕快照 2019-09-12 上午6.41.44.png](https://i.loli.net/2019/09/12/j2ki8XKlSWd5nIN.png)
-
-
-
-### 3.2 Login to change
-
-If you didn't do step 3.0, please click this link to  login and the see step 3.0 pic: [https://www.zhumu.me/User/Login](https://www.zhumu.me/User/Login)
-
-![屏幕快照 2019-09-12 上午8.20.51.png](https://i.loli.net/2019/09/12/4MO9cZt3EYxXDNR.png)
-
-
-
 ## 4. Sign In Zhumu Client
 
-Click **Sign In** button, then input your Email and password your set in step 2.
+Click **Sign In** button, then input your Email and password your get from **Teacher IT**
 
 ![](https://cdn.simai.ml/images/2019/09/14/vZ7gf66TL1/login.gif)
 
@@ -240,7 +209,17 @@ Or other pdf viewer application, you can find simlar tools or icons  like
 
 
 
-## 8. Manage participants
+## 8. Show connected time
+
+For you need to take a screenshot **before the class ends** with the indicated time that you called & send it by Skype. 
+
+![image.png](https://i.loli.net/2019/09/20/OilAst2ouxQNWB8.png)
+
+How to take a screenshot?  [You can read this document](./cs.html).
+
+
+
+## 9. Manage participants
 
 **How to remove Guest while having class?**
 
@@ -256,23 +235,4 @@ To Manage Panelists, hover over the panelist's name.
 
 
 
-## 9. Show connected time
-
-For you need to take a screenshot **before the class ends** with the indicated time that you called & send it by Skype. 
-
-![image.png](https://i.loli.net/2019/09/20/OilAst2ouxQNWB8.png)
-
-How to take a screenshot?  [You can read this document](./cs.html).
-
-
-
-## 10. Forgot Password?
-
-Click this link https://www.zhumu.me/User/ForgetPasswdByEmail and input your email. 
-
-Then click the big blue button.
-
-Then check your email follow the link to reset.
-
-![image.png](https://i.loli.net/2019/10/02/8DZFIS5RBrL4HEp.png)
 
