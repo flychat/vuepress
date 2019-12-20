@@ -10,7 +10,7 @@ Prepare classes properly with PROVIDED LESSONS.
 
 # Todo lists
 
-![](http://share.wechat.edu.pl/images/2019/09/17/JT7CHGexg5/1568718246121.jpg)
+![](https://abc.51share.ml/images/2019/09/17/JT7CHGexg5/1568718246121.jpg)
 
 - [ ] 1. 5~10 minutes **before the class begins**, keep your Skype online and send a ready message to Monika 
 
@@ -28,7 +28,7 @@ Prepare classes properly with PROVIDED LESSONS.
 
 - [ ] 7. Please double-check if the student can see your share book. 
 
-- [ ] 8. Take a screenshot **before the class ends** with the indicated time that you called & send it to Ms. Monika. (Ask the student smile😊)
+- [ ] 8. Take a screenshot **before the class ends** with the indicated time that you called (make sure each class is 25 minutes) & send it to Ms. Monika. (Ask the student smile😊)
 
 - [ ] 9. Lastly, upload the recorded files & write an evaluation in two days. (if you have later class).
 
