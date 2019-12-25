@@ -1,6 +1,9 @@
 # Praise
 
-- 【88039】|RDpWkBi-cr4|Silent Night-小提琴
+- 【88043】|pA9Ofg4DvpA|亲近主
+- 【88042】|L4Dwuip-sL4|磐石磐石
+- 【88041】|ZSOYluQXi5o|生命的河
+- 【88040】|RDpWkBi-cr4|Silent Night-小提琴
 - 【88039】|8Rjae0Ew1N0|平安夜
 - 【88038】|GMTcTCykvHI|這位奇妙嬰孩是誰
 - 【88037】|vePdqblDtW8|聖善夜
