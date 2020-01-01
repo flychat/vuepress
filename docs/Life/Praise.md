@@ -1,5 +1,6 @@
 # Praise
 
+- 【88047】|Krv2jo7OEZg|所有美善力量-锡安
 - 【88046】|rOtBcu78ZNQ|潘霍華生命見證
 - 【88045】|8HEx2Y9lVrE|所有美善力量
 - 【88044】|r_zFg6K4UZA|所有美善力量
