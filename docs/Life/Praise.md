@@ -1,5 +1,7 @@
 # Praise
 
+- 【88045】|8HEx2Y9lVrE|所有美善力量
+- 【88044】|r_zFg6K4UZA|所有美善力量
 - 【88043】|pA9Ofg4DvpA|亲近主
 - 【88042】|L4Dwuip-sL4|磐石磐石
 - 【88041】|ZSOYluQXi5o|生命的河
