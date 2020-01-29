@@ -1,7 +1,7 @@
 # Praise
 
 - 【88050】|ImCY6HMltMk|鼓舞
-- 【88049】|8AheWUeLR-4|炼我愈精
+- 【88049】|Y7Jvb11ysso|炼我愈精
 - 【88048】|ncggjfp7cMM|我的幫助從何而來／願神興起
 - 【88047】|Krv2jo7OEZg|所有美善力量-锡安
 - 【88046】|rOtBcu78ZNQ|潘霍華生命見證
