@@ -32,5 +32,6 @@ Prepare classes properly with PROVIDED LESSONS.
 
 - [ ] 9. Lastly, upload the recorded files & write an evaluation in two days. (if you have later class).
 
+  - ⚠️ Wrong record no pay !
   - ⚠️ It's better not upload than upload a wrong one !!!
     - You uploaded wrong mp3. and the student's parent not happy with us and the student won't enroll us.
