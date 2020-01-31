@@ -237,4 +237,12 @@ To Manage Panelists, hover over the panelist's name.
 
 
 
+## 10. how to change the avatar
 
+- we'll use the photo in your resume as default avatar
+- you can chang it by login [https://zhumu.com/users/sign_in](https://zhumu.com/users/sign_in) 
+	- then go to [https://zhumu.com/admin/userInfo/editUser?from=/admin/account/addressBook](https://zhumu.com/admin/userInfo/editUser?from=/admin/account/addressBook)
+
+
+![登录.png](https://i.loli.net/2020/01/31/YsU54qByF7xIvu1.png)
+![账号设置 _1_.png](https://i.loli.net/2020/01/31/D8jIw6BEbqKRJac.png)
