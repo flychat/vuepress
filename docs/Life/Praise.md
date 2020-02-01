@@ -1,5 +1,6 @@
 # Praise
 
+- 【88050】|nuK3oi7-YoM|你坐着位王
 - 【88050】|ImCY6HMltMk|鼓舞
 - 【88049】|Y7Jvb11ysso|炼我愈精
 - 【88048】|ncggjfp7cMM|我的幫助從何而來／願神興起
