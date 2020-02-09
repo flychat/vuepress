@@ -8,7 +8,7 @@ Prepare classes properly with PROVIDED LESSONS.
 
 **You can print this todo lists, and read and follow it before class.**
 
-# Todo lists
+## Todo lists
 
 ![](https://abc.51share.ml/images/2019/09/17/JT7CHGexg5/1568718246121.jpg)
 
@@ -30,8 +30,9 @@ Prepare classes properly with PROVIDED LESSONS.
 
 - [ ] 8. Take a screenshot **before the class ends** with the indicated time that you called (make sure each class is 25 minutes) & send it to Ms. Monika. (Ask the student smile😊)
 
-- [ ] 9. Lastly, upload the recorded files & write an evaluation in two days. (if you have later class).
+- [ ] 9. Lastly, upload the recorded files & write an evaluation. (if you have later class, you can do it in next day).
 
   - ⚠️ Wrong record no pay !
   - ⚠️ It's better not upload than upload a wrong one !!!
     - You uploaded wrong mp3. and the student's parent not happy with us and the student won't enroll us.
+

@@ -1,5 +1,7 @@
 # Praise
 
+
+- 【88051】|y4Hap3IcrEI|耶和华神已掌权
 - 【88050】|nuK3oi7-YoM|你坐着位王
 - 【88050】|ImCY6HMltMk|鼓舞
 - 【88049】|Y7Jvb11ysso|炼我愈精
