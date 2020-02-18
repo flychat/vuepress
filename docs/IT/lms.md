@@ -59,7 +59,10 @@ Here is wher Recorded located.
 
 ![uploads2.gif](https://i.loli.net/2019/09/13/2iw9LKfu3VRs8gJ.gif)
 
-
+### 4.4 Caution
+	Usually the zhumu_0 is the mp4, audio_oly is the mp3.
+	Don't upload the playback, it's the smallest, just a playlist.
+	If there is interruption, you'll got more that 1 mp4s and mp3s, just upload the longer one.
 
 ## 5. How to flag
 
