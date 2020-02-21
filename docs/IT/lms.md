@@ -34,11 +34,7 @@ If you use Chrome to open pdf for share, you need another Browser Or You can als
 
 ## 4. Upload records
 
-There are 2 ways below you can follow by any one is ok. 
-
-⚠️ For it's need minutes to uploading, when you click the **Save** button, plz don't close the page,  wait until the page auto-refresh or you see 100% precent. 
-
-
+There are 2 ways (4.2, 4.3) below you can choose to follow to upload the records. 
 
 ### 4.1 where are the records?
 
@@ -64,6 +60,10 @@ Here is wher Recorded located.
 Usually the **zhumu_0** is the mp4, **audio_only** is the mp3.
 Don't upload the **playback**, it's the smallest.
 If there is interruption, you'll got more that 1 mp4s and mp3s, just upload the longer one.
+
+⚠️ For it's need minutes to uploading, when you click the **Save** button, plz don't close the page,  wait until the page auto-refresh or you see 100% precent. 
+
+
 
 ## 5. How to flag
 
