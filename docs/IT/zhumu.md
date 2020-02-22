@@ -94,7 +94,10 @@ Click the red text besides **Record** button, then choose **End Meeting for ALL*
 
 Find the Recorded files folder.
 Click **Meetings**  Besides  **Home**
-@see above gif.
+
+- audio_only(.m4a)  is the mp3/audio file. 
+
+- zhumu_0(.mp4) is the video file.
 
 ![image.png](https://i.loli.net/2019/09/19/X2srIhtDa7TWSwo.png)
 

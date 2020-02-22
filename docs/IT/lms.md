@@ -40,6 +40,10 @@ There are 2 ways (4.2, 4.3) below you can choose to follow to upload the records
 
 Here is wher Recorded located.
 
+- audio_only(.m4a)  is the mp3/audio file. 
+
+- zhumu_0(.mp4) is the video file.
+
 ![屏幕快照 2019-09-12 下午6.16.02.png](https://i.loli.net/2019/09/12/CfKnBeXYQO9jTqv.png)
 
 
