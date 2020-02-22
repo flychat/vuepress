@@ -1,5 +1,6 @@
 # Praise
 
+- 【88063】|nuK3oi7-YoM|你坐着位王
 - 【88062】|uZd8gvpcsEA|撒网的人
 - 【88061】|SecfxAblIF8|我只仰望你
 - 【88060】|7Krl3-kwsBs|是这份爱
@@ -12,7 +13,6 @@
 - 【88053】|G3RbH9D1Vd8|如鹰展翅上腾
 - 【88052】|bBwlodLdr6s|为爱和合一祷告
 - 【88051】|y4Hap3IcrEI|耶和华神已掌权
-- 【88050】|nuK3oi7-YoM|你坐着位王
 - 【88050】|ImCY6HMltMk|鼓舞
 - 【88049】|Y7Jvb11ysso|炼我愈精
 - 【88048】|ncggjfp7cMM|我的幫助從何而來／願神興起
