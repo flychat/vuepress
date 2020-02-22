@@ -1,6 +1,16 @@
 # Praise
 
-
+- 【88062】|uZd8gvpcsEA|撒网的人
+- 【88061】|SecfxAblIF8|我只仰望你
+- 【88060】|7Krl3-kwsBs|是这份爱
+- 【88059】|cszXR0BK78w|应当单单仰望主
+- 【88058】|FXn8pbY3q0U|赞美中遇见你
+- 【88057】|QqUEJIQKOxc|永恒的问答
+- 【88056】|EeMIYzAuajQ|我對你的愛永不變
+- 【88055】|FNUieNcfSQ8|医治这地
+- 【88054】|CigLPfxQ7Sc|我们呼求
+- 【88053】|G3RbH9D1Vd8|如鹰展翅上腾
+- 【88052】|bBwlodLdr6s|为爱和合一祷告
 - 【88051】|y4Hap3IcrEI|耶和华神已掌权
 - 【88050】|nuK3oi7-YoM|你坐着位王
 - 【88050】|ImCY6HMltMk|鼓舞
@@ -50,6 +60,6 @@
 - 【88006】|hVauF-2cpqg|你是我生命的亮光
 - 【88005】|WeEHQ0vaVsE|你遇见主了吗
 - 【88004】|xJDiQup3BJ0|悦纳的时候
-- 【88003】|_6_Tv5zQjVk|我心紧紧跟随你
+- 【88003】|6_Tv5zQjVk|我心紧紧跟随你
 - 【88002】|gqBT9b_h5kE|大海中的船
 - 【88001】|XdsESocbcyM|大能手
