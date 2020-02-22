@@ -29,6 +29,7 @@ Prepare classes properly with PROVIDED LESSONS.
 - [ ] 7. Please double-check if the student can see your share book. 
 
 - [ ] 8. Take a screenshot **before the class ends** with the indicated time that you called (make sure each class is 25 minutes) & send it to Ms. Monika. (Ask the student smile😊)
+     1. [How to take a screenshot?](http://flychat.ml/IT/cs.html#_1-how-to-take-a-screenshot) => https://support.microsoft.com/en-us/help/13776/windows-10-use-snipping-tool-to-capture-screenshots
 
 - [ ] 9. Lastly, upload the recorded files & write an evaluation. (if you have later class, you can do it in next day).
 
