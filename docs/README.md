@@ -9,8 +9,3 @@ sidebar: false
 
 - [190718 | Webhook快速上手](/IT/Server/webhook.md)
 - [190722 | 相忘于江湖](/IT/190722开启你的匿名之旅.md)
-
-<InArticleAdsense
-    data-ad-client="ca-pub-9761577469399590"
-    data-ad-slot="1234567890">
-</InArticleAdsense>
