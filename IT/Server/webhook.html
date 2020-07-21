@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>我的第一个webhook | FlyChat.ml</title>
+    <meta name="description" content="又是一片云">
+    
+    
+    <link rel="preload" href="/assets/css/0.styles.d7d6c04a.css" as="style"><link rel="preload" href="/assets/js/app.b6bb4d4d.js" as="script"><link rel="preload" href="/assets/js/2.8f7dda8c.js" as="script"><link rel="preload" href="/assets/js/26.a183780f.js" as="script"><link rel="prefetch" href="/assets/js/10.e648c570.js"><link rel="prefetch" href="/assets/js/11.8e234465.js"><link rel="prefetch" href="/assets/js/12.8b453b2c.js"><link rel="prefetch" href="/assets/js/13.20cc4b20.js"><link rel="prefetch" href="/assets/js/14.d88763f5.js"><link rel="prefetch" href="/assets/js/15.c53314b5.js"><link rel="prefetch" href="/assets/js/16.d6651e69.js"><link rel="prefetch" href="/assets/js/17.faa0279f.js"><link rel="prefetch" href="/assets/js/18.1ca4c276.js"><link rel="prefetch" href="/assets/js/19.af4b6640.js"><link rel="prefetch" href="/assets/js/20.05fbe4ec.js"><link rel="prefetch" href="/assets/js/21.245ed8d5.js"><link rel="prefetch" href="/assets/js/22.853943f1.js"><link rel="prefetch" href="/assets/js/23.4e691194.js"><link rel="prefetch" href="/assets/js/24.c660ab36.js"><link rel="prefetch" href="/assets/js/25.1951638b.js"><link rel="prefetch" href="/assets/js/27.ee4e7bf6.js"><link rel="prefetch" href="/assets/js/28.9fc17496.js"><link rel="prefetch" href="/assets/js/29.c1a7b30f.js"><link rel="prefetch" href="/assets/js/3.0572337a.js"><link rel="prefetch" href="/assets/js/30.2f08ac91.js"><link rel="prefetch" href="/assets/js/31.f6e10fbe.js"><link rel="prefetch" href="/assets/js/32.beca6b3c.js"><link rel="prefetch" href="/assets/js/33.468ad020.js"><link rel="prefetch" href="/assets/js/34.cdc39912.js"><link rel="prefetch" href="/assets/js/35.a3ef273c.js"><link rel="prefetch" href="/assets/js/36.38c4f524.js"><link rel="prefetch" href="/assets/js/37.0b740524.js"><link rel="prefetch" href="/assets/js/38.38118303.js"><link rel="prefetch" href="/assets/js/39.d35143ac.js"><link rel="prefetch" href="/assets/js/4.7bf71852.js"><link rel="prefetch" href="/assets/js/40.3c10f906.js"><link rel="prefetch" href="/assets/js/41.cfc57cc1.js"><link rel="prefetch" href="/assets/js/42.680083ac.js"><link rel="prefetch" href="/assets/js/43.e0a640b0.js"><link rel="prefetch" href="/assets/js/44.fcd646f7.js"><link rel="prefetch" href="/assets/js/45.ac508550.js"><link rel="prefetch" href="/assets/js/46.c3b54f9d.js"><link rel="prefetch" href="/assets/js/47.e7cf5b69.js"><link rel="prefetch" href="/assets/js/48.198d0b83.js"><link rel="prefetch" href="/assets/js/49.40a24fd1.js"><link rel="prefetch" href="/assets/js/5.5f37c3fd.js"><link rel="prefetch" href="/assets/js/6.c2bcc29f.js"><link rel="prefetch" href="/assets/js/7.b1a5272c.js"><link rel="prefetch" href="/assets/js/8.20e85d07.js"><link rel="prefetch" href="/assets/js/9.19d32d5f.js">
+    <link rel="stylesheet" href="/assets/css/0.styles.d7d6c04a.css">
+  </head>
+  <body>
+    <div id="app" data-server-rendered="true"><div class="theme-container"><header class="navbar"><div class="sidebar-button"><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" viewBox="0 0 448 512" class="icon"><path fill="currentColor" d="M436 124H12c-6.627 0-12-5.373-12-12V80c0-6.627 5.373-12 12-12h424c6.627 0 12 5.373 12 12v32c0 6.627-5.373 12-12 12zm0 160H12c-6.627 0-12-5.373-12-12v-32c0-6.627 5.373-12 12-12h424c6.627 0 12 5.373 12 12v32c0 6.627-5.373 12-12 12zm0 160H12c-6.627 0-12-5.373-12-12v-32c0-6.627 5.373-12 12-12h424c6.627 0 12 5.373 12 12v32c0 6.627-5.373 12-12 12z"></path></svg></div> <a href="/" class="home-link router-link-active"><!----> <span class="site-name">FlyChat.ml</span></a> <div class="links"><div class="search-box"><input aria-label="Search" autocomplete="off" spellcheck="false" value=""> <!----></div> <nav class="nav-links can-hide"><div class="nav-item"><a href="/" class="nav-link">首页</a></div><div class="nav-item"><a href="/Life/" class="nav-link">生活</a></div><div class="nav-item"><a href="/IT/" class="nav-link router-link-active">技术</a></div><div class="nav-item"><a href="https://sm.ms" target="_blank" rel="noopener noreferrer" class="nav-link external">
+  图床
+  <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg></a></div> <!----></nav></div></header> <div class="sidebar-mask"></div> <aside class="sidebar"><nav class="nav-links"><div class="nav-item"><a href="/" class="nav-link">首页</a></div><div class="nav-item"><a href="/Life/" class="nav-link">生活</a></div><div class="nav-item"><a href="/IT/" class="nav-link router-link-active">技术</a></div><div class="nav-item"><a href="https://sm.ms" target="_blank" rel="noopener noreferrer" class="nav-link external">
+  图床
+  <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg></a></div> <!----></nav>  <ul class="sidebar-links"><li><section class="sidebar-group depth-0"><p class="sidebar-heading open"><span>我的第一个webhook</span> <!----></p> <ul class="sidebar-links sidebar-group-items"><li><a href="/IT/Server/webhook.html#概述" class="sidebar-link">概述</a><ul class="sidebar-sub-headers"></ul></li><li><a href="/IT/Server/webhook.html#安装" class="sidebar-link">安装</a><ul class="sidebar-sub-headers"></ul></li><li><a href="/IT/Server/webhook.html#配置" class="sidebar-link">配置</a><ul class="sidebar-sub-headers"><li class="sidebar-sub-header"><a href="/IT/Server/webhook.html#创建目录" class="sidebar-link">创建目录</a></li><li class="sidebar-sub-header"><a href="/IT/Server/webhook.html#创建一个demo脚本" class="sidebar-link">创建一个Demo脚本</a></li><li class="sidebar-sub-header"><a href="/IT/Server/webhook.html#创建webhook配置文件" class="sidebar-link">创建webhook配置文件</a></li><li class="sidebar-sub-header"><a href="/IT/Server/webhook.html#开启webhook服务" class="sidebar-link">开启webhook服务</a></li><li class="sidebar-sub-header"><a href="/IT/Server/webhook.html#开启webhook服务-方式2" class="sidebar-link">开启webhook服务 方式2</a></li><li class="sidebar-sub-header"><a href="/IT/Server/webhook.html#执行" class="sidebar-link">执行</a></li></ul></li><li><a href="/IT/Server/webhook.html#我的目标代码" class="sidebar-link">我的目标代码</a><ul class="sidebar-sub-headers"><li class="sidebar-sub-header"><a href="/IT/Server/webhook.html#实现我的第1个目标" class="sidebar-link">实现我的第1个目标</a></li><li class="sidebar-sub-header"><a href="/IT/Server/webhook.html#实现我的第2个目标" class="sidebar-link">实现我的第2个目标</a></li><li class="sidebar-sub-header"><a href="/IT/Server/webhook.html#设定cron执行" class="sidebar-link">设定cron执行</a></li></ul></li><li><a href="/IT/Server/webhook.html#总结" class="sidebar-link">总结</a><ul class="sidebar-sub-headers"></ul></li><li><a href="/IT/Server/webhook.html#进阶-post方式" class="sidebar-link">进阶 post方式</a><ul class="sidebar-sub-headers"></ul></li></ul></section></li></ul> </aside> <main class="page"> <div class="theme-default-content content__default"><h1 id="我的第一个webhook"><a href="#我的第一个webhook" aria-hidden="true" class="header-anchor">#</a> 我的第一个webhook</h1> <h2 id="概述"><a href="#概述" aria-hidden="true" class="header-anchor">#</a> 概述</h2> <p>在一个vuepress的docker中发现了一个<a href="https://github.com/blastehh/vuepress-docker/blob/master/build.sh" target="_blank" rel="noopener noreferrer">go语言写的webhook的影子<svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg></a>，于是找到了这个<a href="https://github.com/adnanh/webhook" target="_blank" rel="noopener noreferrer">https://github.com/adnanh/webhook<svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg></a>。</p> <p>webhook通常用在什么地方？</p> <blockquote><p>在服务器上执行一个脚本，但是需要用户（客户端）手动点击一个链接即可出触发。（使用http）
+更通俗的讲，一些build脚本和deploy脚本工作在服务器中完成，本地只需要提交代码即可，对用户屏蔽部署细节。</p></blockquote> <p>如下所述：</p> <blockquote><p>webhook is a lightweight configurable tool written in Go, that allows you to easily create HTTP endpoints (hooks) on your server, which you can use to execute configured commands. You can also pass data from the HTTP request (such as headers, payload or query variables) to your commands. webhook also allows you to specify rules which have to be satisfied in order for the hook to be triggered.</p></blockquote> <p>我的目标:</p> <ul><li>用户提交了代码之后，在服务器上而不是在本地build并更新vuepress到github.io，因为服务器上更快，对于使用vuepress的普通用户来说，屏蔽了一些技术细节，用户只需要专心写作，提交代码到github，然后访问一个webhook地址，稍等片刻，即可自动部署到github.io。</li> <li>一个同步脚本，两个区域的服务器数据库直接的同步，之前一直在我电脑里运行，因为我可以免密登陆这两台服务器，客户请求同步后我手动执行脚本，现在要换成使用第三台小服务器来执行，只需要用户点击链接，稍等片刻即可同步成功</li></ul> <h2 id="安装"><a href="#安装" aria-hidden="true" class="header-anchor">#</a> 安装</h2> <p>参考<a href="https://github.com/adnanh/webhook" target="_blank" rel="noopener noreferrer">https://github.com/adnanh/webhook<svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg></a>，最后我使用的是下载编译好的webhook-linux-amd64.tar.gz。解压后放到/usr/local/bin/webhook</p> <h2 id="配置"><a href="#配置" aria-hidden="true" class="header-anchor">#</a> 配置</h2> <h3 id="创建目录"><a href="#创建目录" aria-hidden="true" class="header-anchor">#</a> 创建目录</h3> <div class="language- extra-class"><pre class="language-text"><code>mkdir -p /var/scripts/
+mkdir -p /var/webhook/
+touch /var/scripts/demo.sh
+tocuh /var/webhook/hooks.json
+</code></pre></div><h3 id="创建一个demo脚本"><a href="#创建一个demo脚本" aria-hidden="true" class="header-anchor">#</a> 创建一个Demo脚本</h3> <blockquote><p>vi /var/scripts/demo.sh</p></blockquote> <div class="language- extra-class"><pre class="language-text"><code>#! /bin/bash
+echo &quot;demo webhook runing&quot; &gt;&gt; /tmp/webhook.log
+date &gt;&gt; /tmp/webhook.log
+echo &quot;demo webhook done&quot; &gt;&gt; /tmp/webhook.log
+</code></pre></div><h3 id="创建webhook配置文件"><a href="#创建webhook配置文件" aria-hidden="true" class="header-anchor">#</a> 创建webhook配置文件</h3> <blockquote><p>vi /var/webhook/hooks.json</p></blockquote> <div class="language- extra-class"><pre class="language-text"><code>[
+  {
+    &quot;id&quot;: &quot;demo&quot;,
+    &quot;execute-command&quot;: &quot;/var/scripts/demo.sh&quot;,
+    &quot;command-working-directory&quot;: &quot;/var/webhook&quot;
+  },
+  {
+    &quot;id&quot;: &quot;lms&quot;,
+    &quot;execute-command&quot;: &quot;/var/scripts/lms-sync.sh&quot;,
+    &quot;command-working-directory&quot;: &quot;/var/webhook&quot;
+  },
+  {
+    &quot;id&quot;: &quot;vuepress&quot;,
+    &quot;execute-command&quot;: &quot;/var/scripts/vuepress-build.sh&quot;,
+    &quot;command-working-directory&quot;: &quot;/var/webhook&quot;
+  }
+]
+</code></pre></div><h3 id="开启webhook服务"><a href="#开启webhook服务" aria-hidden="true" class="header-anchor">#</a> 开启webhook服务</h3> <p><code>nohup webhook -hooks ./hooks.json -verbose -port 9002 &amp;</code></p> <blockquote><p>nohup ... &amp; 表示后台运行的方式 //todo 守护进程与监控 supervisor
+因为这个进程可能宕掉，服务器重启后也不会自动启动的。</p></blockquote> <h3 id="开启webhook服务-方式2"><a href="#开启webhook服务-方式2" aria-hidden="true" class="header-anchor">#</a> 开启webhook服务 方式2</h3> <p>参考 <a href="https://davidauthier.com/blog/deploy-using-github-webhooks.html" target="_blank" rel="noopener noreferrer">https://davidauthier.com/blog/deploy-using-github-webhooks.html<svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg></a></p> <p>vi /etc/systemd/system/webhook.service</p> <div class="language- extra-class"><pre class="language-text"><code>[Unit]
+Description=Webhooks
+
+[Service]
+ExecStart=/usr/local/bin/webhook -hooks /var/webhook/hooks.json -hotreload -verbose -port 9002
+
+[Install]
+WantedBy=multi-user.target
+Alias=webhook.service
+</code></pre></div><p>systemctl enable webhook.service</p> <p>systemctl restart webhook.service</p> <p>service webhook status</p> <h3 id="执行"><a href="#执行" aria-hidden="true" class="header-anchor">#</a> 执行</h3> <p>当前服务器执行：  curl -s http://localhost:9002/hooks/demo
+其他执行，把localhost换成服务器ip或域名</p> <h2 id="我的目标代码"><a href="#我的目标代码" aria-hidden="true" class="header-anchor">#</a> 我的目标代码</h2> <p>内含业务逻辑，不作说明，作为记录只用，请略过。</p> <blockquote><p>touch /var/scripts/lms-sync.sh
+touch /var/scripts/vuepress-build.sh</p></blockquote> <h3 id="实现我的第1个目标"><a href="#实现我的第1个目标" aria-hidden="true" class="header-anchor">#</a> 实现我的第1个目标</h3> <blockquote><p>vi /var/scripts/vuepress-build.sh</p></blockquote> <p>date &gt;&gt; /tmp/$1.$2.$3.log =&gt; /tmp/vuepress.28c4801b9685ab281a472e75b0951b440e84f218.flychat.log</p> <div class="language- extra-class"><pre class="language-text"><code>#! /bin/bash
+date &gt;&gt; /tmp/$3.log
+cd /var/www/vuepress/$3/ &amp;&amp; git pull origin master &amp;&amp; docker-compose up --build &gt;&gt; /tmp/$3.log
+date &gt;&gt; /tmp/$3.log
+</code></pre></div><h3 id="实现我的第2个目标"><a href="#实现我的第2个目标" aria-hidden="true" class="header-anchor">#</a> 实现我的第2个目标</h3> <blockquote><p>vi /var/scripts/lms-sync.sh</p></blockquote> <div class="language- extra-class"><pre class="language-text"><code>#! /bin/bash
+date &gt;&gt; /tmp/sync-lms-abc.log
+cd /var/www/laravel-abc-lms &amp;&amp;  php ~/.config/composer/vendor/bin/envoy run sync &gt;&gt; /tmp/sync-lms-abc.log
+date &gt;&gt; /tmp/sync-lms-abc.log
+</code></pre></div><h3 id="设定cron执行"><a href="#设定cron执行" aria-hidden="true" class="header-anchor">#</a> 设定cron执行</h3> <div class="language- extra-class"><pre class="language-text"><code>0 10,18 * * * curl -s http://localhost:9002/hooks/simai
+0 5,16-18 * * * curl -s http://localhost:9002/hooks/lms
+</code></pre></div><h2 id="总结"><a href="#总结" aria-hidden="true" class="header-anchor">#</a> 总结</h2> <p>不需要go语言基础，直接安装按照配置使用接口，该webhook默认使用的是9000端口，可以使用-port 9002来指定端口。</p> <h2 id="进阶-post方式"><a href="#进阶-post方式" aria-hidden="true" class="header-anchor">#</a> 进阶 post方式</h2> <p>上面的方式存在问题： 没有权限验证，任何知道/获得该地址的用户可以随意点击，导致服务器繁忙！</p> <p>提交到master分支，注意：</p> <ul><li>YOU-SECRET</li> <li>github的repository的webhook中Content type选择 application/json
+<ul><li>https://github.com/YOURNAME/YOUR-REPO/settings/hooks/new</li></ul></li></ul> <p>post json配置：</p> <div class="language- extra-class"><pre class="language-text"><code>[
+  {
+    &quot;id&quot;: &quot;vuepress&quot;,
+    &quot;execute-command&quot;: &quot;/var/scripts/vuepress-build.sh&quot;,
+    &quot;response-message&quot;: &quot;I got the payload!&quot;,
+    &quot;command-working-directory&quot;: &quot;/var/webhook&quot;,
+    &quot;pass-arguments-to-command&quot;:
+    [
+      {
+        &quot;source&quot;: &quot;payload&quot;,
+        &quot;name&quot;: &quot;repository.name&quot;
+      },
+      {
+        &quot;source&quot;: &quot;payload&quot;,
+        &quot;name&quot;: &quot;head_commit.id&quot;
+      },
+      {
+        &quot;source&quot;: &quot;payload&quot;,
+        &quot;name&quot;: &quot;pusher.name&quot;
+      },
+      {
+        &quot;source&quot;: &quot;payload&quot;,
+        &quot;name&quot;: &quot;pusher.email&quot;
+      }
+    ],
+    &quot;trigger-rule&quot;:
+    {
+      &quot;and&quot;:
+      [
+        {
+          &quot;match&quot;:
+          {
+            &quot;type&quot;: &quot;payload-hash-sha1&quot;,
+            &quot;secret&quot;: &quot;YOU-SECRET&quot;,
+            &quot;parameter&quot;:
+            {
+              &quot;source&quot;: &quot;header&quot;,
+              &quot;name&quot;: &quot;X-Hub-Signature&quot;
+            }
+          }
+        },
+        {
+          &quot;match&quot;:
+          {
+            &quot;type&quot;: &quot;value&quot;,
+            &quot;value&quot;: &quot;refs/heads/master&quot;,
+            &quot;parameter&quot;:
+            {
+              &quot;source&quot;: &quot;payload&quot;,
+              &quot;name&quot;: &quot;ref&quot;
+            }
+          }
+        }
+      ]
+    }
+  }
+]
+</code></pre></div></div> <footer class="page-edit"><!----> <div class="last-updated"><span class="prefix">Last Updated: </span> <span class="time">7/21/2020, 9:49:30 PM</span></div></footer> <!----> </main></div><div class="global-ui"></div></div>
+    <script src="/assets/js/app.b6bb4d4d.js" defer></script><script src="/assets/js/2.8f7dda8c.js" defer></script><script src="/assets/js/26.a183780f.js" defer></script>
+  </body>
+</html>
