@@ -51,7 +51,7 @@ Then Click **Always use PMI for instant meetings on this computer**
 
 **Make sure it's checked  and send screenshot to IT Support!**
 
-![image.png](https://i.loli.net/2019/09/19/wFKmp1xzGQCvVrY.png)
+![image.png](https://i.loli.net/2020/08/07/g6mCW7l1GsuVHI2.png)
 
 
 
