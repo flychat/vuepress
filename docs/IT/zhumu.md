@@ -8,11 +8,11 @@
 
 Download Link
 
-- Windows 7, 8, 10 :  [http://downloads.zhumu.me/client/latest/zhumu.exe](http://downloads.zhumu.me/client/latest/zhumu.exe)
+- Windows 7, 8, 10 :  [https://url.zhumu.me/f12e](https://url.zhumu.me/f12e)
   - if you use Windows XP use this link to download plz
-    -  [http://downloads.zhumu.me/client/latest/zhumu_xp.exe](http://downloads.zhumu.me/client/latest/zhumu_xp.exe)
+    -  [https://url.zhumu.me/4065](https://url.zhumu.me/4065)
 - Mac
-  -  https://url.zhumu.me/b865
+  -  [https://url.zhumu.me/fc7a](https://url.zhumu.me/fc7a)
 
 
 

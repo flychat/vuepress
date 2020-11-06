@@ -4,7 +4,8 @@
     "build": "node docs/index.js && vuepress build docs"
   },
   "devDependencies": {
-    "vuepress": "^1.0.2"
+    "vuepress": "^1.0.2",
+    "vue-router": "3.4.5"
   },
   "dependencies": {
     "vue-google-adsense": "^1.6.0",
